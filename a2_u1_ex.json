@@ -1,0 +1,1235 @@
+{
+  "book": "Édito A2 – Cahier d’activités",
+  "unit": {
+    "number": 1,
+    "title": "Nouvelles vies"
+  },
+  "audio": {
+    "1": {
+      "page": 3,
+      "ref": "Grammaire, Activité 1",
+      "transcript": [
+        {
+          "letter": "a",
+          "text": "Julia se marie dimanche."
+        },
+        {
+          "letter": "b",
+          "text": "Mes parents se sont installés en France dans les années 70."
+        },
+        {
+          "letter": "c",
+          "text": "Mon frère est parti en Erasmus."
+        },
+        {
+          "letter": "d",
+          "text": "L’album « Mesdames » de Grand Corps Malade est sorti en 2020."
+        },
+        {
+          "letter": "e",
+          "text": "J’ai déménagé l’année dernière."
+        },
+        {
+          "letter": "f",
+          "text": "Je fais un stage dans une entreprise étrangère."
+        }
+      ]
+    },
+    "2": {
+      "page": 4,
+      "ref": "Vocabulaire, Activité 4",
+      "transcript": [
+        {
+          "letter": "a",
+          "text": "Adnan et Célia, vous formez vraiment un beau couple !"
+        },
+        {
+          "letter": "b",
+          "text": "Je vous déclare mari et femme."
+        },
+        {
+          "letter": "c",
+          "text": "Et nous avons ici, avec nous, Yseult, auteure-interprète française… Bonjour Yseult !"
+        },
+        {
+          "letter": "d",
+          "text": "La vie de famille, oui, c’est super ! Mais parfois ça demande de l’organisation !"
+        },
+        {
+          "letter": "e",
+          "text": "Elle a obtenu son diplôme."
+        },
+        {
+          "letter": "f",
+          "text": "Avec mes meilleurs amis, on a fini nos études."
+        }
+      ]
+    },
+    "3": {
+      "page": 5,
+      "ref": "Grammaire, Activité 4",
+      "transcript": [
+        {
+          "letter": "a",
+          "text": "Tu fais du jardinage parfois ?"
+        },
+        {
+          "letter": "b",
+          "text": "Avec qui tu vas au concert ?"
+        },
+        {
+          "letter": "c",
+          "text": "Qu’est-ce que tu as dit ?"
+        },
+        {
+          "letter": "d",
+          "text": "Tu as encore de l’argent ?"
+        },
+        {
+          "letter": "e",
+          "text": "Quelqu’un parle italien ici ?"
+        },
+        {
+          "letter": "f",
+          "text": "Tu as déjà vu ce spectacle ?"
+        }
+      ]
+    },
+    "4": {
+      "page": 6,
+      "ref": "Vocabulaire, Activité 1",
+      "transcript": [
+        {
+          "speaker": "Édouard",
+          "text": "Salut Nicole ! Tu fais quoi ce soir ? Je vais voir une pièce de théâtre, ça te dit de venir avec moi ?"
+        },
+        {
+          "speaker": "Nicole",
+          "text": "Ce soir, je ne peux pas, je vais au cirque avec ma meilleure amie."
+        },
+        {
+          "speaker": "Édouard",
+          "text": "Ah… et tu es libre demain après-midi ? Tu viens jouer aux jeux vidéo chez moi ?"
+        },
+        {
+          "speaker": "Nicole",
+          "text": "Demain après-midi ? Euh… non, ce n’est pas possible, je fais de la peinture avec ma sœur."
+        },
+        {
+          "speaker": "Édouard",
+          "text": "Et ce week-end, on fait une via ferrata ?"
+        },
+        {
+          "speaker": "Nicole",
+          "text": "Non, Édouard, je vais rester à la maison, je vais jardiner avec mes parents."
+        },
+        {
+          "speaker": "Édouard",
+          "text": "Bon, d’accord. J’ai compris !"
+        }
+      ]
+    },
+    "5": {
+      "page": 7,
+      "ref": "Grammaire, Activité 4",
+      "transcript": [
+        {
+          "letter": "a",
+          "text": "Hier, j’ai joué au foot de 13 heures à 15 heures."
+        },
+        {
+          "letter": "b",
+          "text": "Nous sommes en 2022. En 2020, nous sommes allées au Festival du Vercors."
+        },
+        {
+          "letter": "c",
+          "text": "J’ai arrêté la compétition l’an dernier."
+        },
+        {
+          "letter": "d",
+          "text": "Annabelle a fait un séjour Erasmus à Berlin de janvier à juin."
+        },
+        {
+          "letter": "e",
+          "text": "Nous sommes le 15 septembre. J’ai commencé à travailler ici le 5 septembre."
+        },
+        {
+          "letter": "f",
+          "text": "Je connais mon meilleur ami depuis 22 ans."
+        }
+      ]
+    },
+    "6": {
+      "page": 8,
+      "ref": "Phonie-graphie, Activité 1",
+      "transcript": [
+        {
+          "letter": "a",
+          "text": "Tu as préparé toutes tes affaires."
+        },
+        {
+          "letter": "b",
+          "text": "Hier vous avez vu un film."
+        },
+        {
+          "letter": "c",
+          "text": "Dans un bar, debout, j’ai bu un cocktail de fruits."
+        },
+        {
+          "letter": "d",
+          "text": "Il a lu à son fils l’histoire du loup."
+        },
+        {
+          "letter": "e",
+          "text": "Sa moto à trois roues est dans la rue."
+        },
+        {
+          "letter": "f",
+          "text": "Elle a su gérer son stress et ne pas être sous pression."
+        }
+      ]
+    },
+    "7": {
+      "page": 8,
+      "ref": "Phonie-graphie, Activité 2",
+      "transcript": [
+        {
+          "letter": "a",
+          "text": "– C’est sûr ? – Non, c’est fou !"
+        },
+        {
+          "letter": "b",
+          "text": "– Mon livre, tu l’as lu ? – Non, je vais le lire tout de suite !"
+        },
+        {
+          "letter": "c",
+          "text": "– C’est à Jules ? – Non, c’est à vous."
+        },
+        {
+          "letter": "d",
+          "text": "– C’est dur ? – Non, c’est mou."
+        },
+        {
+          "letter": "e",
+          "text": "– Le jus de pomme, tu l’as bu ? – Oui, il est bon et il est doux !"
+        }
+      ]
+    },
+    "8": {
+      "page": 8,
+      "ref": "Phonie-graphie, Activité 3",
+      "transcript": "Salut Jules, au mois d’août, nous avons dû annuler nos vacances. Nous avons eu un gros problème. Et toi, tu pars où pour les vacances ? À bientôt. Louis."
+    },
+    "9": {
+      "page": 8,
+      "ref": "Phonie-graphie, Activité 4",
+      "transcript": "Je m’appelle Coumba, je suis camerounaise. J’ai participé aux Jeux de la Francophonie de 2017 en Côte d’Ivoire. Il y avait plus de 4 000 jeunes sportifs et artistes venus de 84 pays francophones. Nous avons pu participer à beaucoup de compétitions et concours. C’était une expérience inoubliable !"
+    }
+  },
+  "sections": [
+    {
+      "id": "cahier_grammar_1",
+      "type": "grammar",
+      "page": 3,
+      "title": "Le passé composé",
+      "livre_reference": "p. 16",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "audio_discrimination",
+          "audio_track": 1,
+          "instruction": "Écoutez et dites si vous entendez le passé composé.",
+          "table_columns": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f"
+          ],
+          "answer": {
+            "passe_compose": [
+              "b",
+              "c",
+              "d",
+              "e"
+            ],
+            "pas_passe_compose": [
+              "a",
+              "f"
+            ]
+          }
+        },
+        {
+          "number": 2,
+          "type": "fill_in",
+          "instruction": "Complétez les phrases avec l’auxiliaire être ou avoir.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Virginie …… rencontré son conjoint à l’étranger.",
+              "answer": "a",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "Jamel Debbouze s’…… marié en 2008.",
+              "answer": "est"
+            },
+            {
+              "letter": "c",
+              "text": "Leïla Bekhti et Tahar Rahim …… eu trois enfants.",
+              "answer": "ont"
+            },
+            {
+              "letter": "d",
+              "text": "Nous …… écouté le nouvel album de Stromae.",
+              "answer": "avons"
+            },
+            {
+              "letter": "e",
+              "text": "Vous …… allés au concert de Gaël Faye ?",
+              "answer": "êtes"
+            },
+            {
+              "letter": "f",
+              "text": "Tu …… déjà rencontré une célébrité ?",
+              "answer": "as"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "fill_in",
+          "instruction": "Écrivez les participes passés des verbes.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "venir : ……",
+              "answer": "venu",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "dire : ……",
+              "answer": "dit"
+            },
+            {
+              "letter": "c",
+              "text": "être : ……",
+              "answer": "été"
+            },
+            {
+              "letter": "d",
+              "text": "recevoir : ……",
+              "answer": "reçu"
+            },
+            {
+              "letter": "e",
+              "text": "devoir : ……",
+              "answer": "dû"
+            },
+            {
+              "letter": "f",
+              "text": "vivre : ……",
+              "answer": "vécu"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "type": "choose_correct_form",
+          "instruction": "Dans les phrases suivantes, choisissez la forme correcte.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Ma meilleure amie est parti / partie en Erasmus l’an dernier.",
+              "choices": [
+                "parti",
+                "partie"
+              ],
+              "answer": "partie",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "Mes parents se sont rencontré / rencontrés à Venise.",
+              "choices": [
+                "rencontré",
+                "rencontrés"
+              ],
+              "answer": "rencontrés"
+            },
+            {
+              "letter": "c",
+              "text": "Ma conjointe a fini / finie ses études.",
+              "choices": [
+                "fini",
+                "finie"
+              ],
+              "answer": "fini"
+            },
+            {
+              "letter": "d",
+              "text": "Ma grand-mère est mort / morte l’an dernier.",
+              "choices": [
+                "mort",
+                "morte"
+              ],
+              "answer": "morte"
+            },
+            {
+              "letter": "e",
+              "text": "La chanteuse Angèle est devenu / devenue très populaire.",
+              "choices": [
+                "devenu",
+                "devenue"
+              ],
+              "answer": "devenue"
+            },
+            {
+              "letter": "f",
+              "text": "Mes sœurs sont arrivé / arrivées dimanche.",
+              "choices": [
+                "arrivé",
+                "arrivées"
+              ],
+              "answer": "arrivées"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "type": "conjugate_text",
+          "instruction": "Conjuguez les verbes entre parenthèses au passé composé.",
+          "text": "Juliette Armanet est une compositrice interprète française. Elle (naître) …… le 4 mars 1984 à Lille. Elle (grandir) …… en région parisienne. Après ses études de lettres et de théâtre, elle (devenir) …… journaliste. Elle (travailler) …… pour la radio et la télévision pendant plusieurs années puis elle (décider) …… de changer de profession. Son premier album (sortir) …… en 2017, le second en 2021. Les deux albums (avoir) …… beaucoup de succès.",
+          "answers": [
+            {
+              "infinitive": "naître",
+              "answer": "est née",
+              "example": true
+            },
+            {
+              "infinitive": "grandir",
+              "answer": "a grandi"
+            },
+            {
+              "infinitive": "devenir",
+              "answer": "est devenue"
+            },
+            {
+              "infinitive": "travailler",
+              "answer": "a travaillé"
+            },
+            {
+              "infinitive": "décider",
+              "answer": "a décidé"
+            },
+            {
+              "infinitive": "sortir",
+              "answer": "est sorti"
+            },
+            {
+              "infinitive": "avoir",
+              "answer": "ont eu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cahier_vocab_1",
+      "type": "vocabulary",
+      "page": 4,
+      "title": "Parcours de vie",
+      "livre_reference": "p. 17",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "matching",
+          "instruction": "Associez les débuts et les fins de phrases.",
+          "left": {
+            "a": "Un acteur",
+            "b": "Un scénariste",
+            "c": "Un chanteur",
+            "d": "Un compositeur",
+            "e": "Une écrivaine"
+          },
+          "right": {
+            "1": "écrit l’histoire d’un film.",
+            "2": "joue dans un film.",
+            "3": "écrit des livres.",
+            "4": "compose de la musique.",
+            "5": "chante des chansons."
+          },
+          "answer": {
+            "a": "2",
+            "b": "1",
+            "c": "5",
+            "d": "4",
+            "e": "3"
+          }
+        },
+        {
+          "number": 2,
+          "type": "fill_in",
+          "instruction": "Complétez les phrases avec les éléments suivants :",
+          "choices": [
+            "célibataire",
+            "déménager",
+            "faire connaissance",
+            "coup de foudre",
+            "se faire des amis",
+            "rencontre"
+          ],
+          "items": [
+            {
+              "letter": "a",
+              "text": "Dom a tout de suite aimé Laurence, il a eu un ……",
+              "answer": "coup de foudre",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "Je cherche un travail dans le sud de la France, je voudrais …… .",
+              "answer": "déménager"
+            },
+            {
+              "letter": "c",
+              "text": "Ce n’est pas toujours facile de …… quand on arrive dans une nouvelle ville.",
+              "answer": "se faire des amis"
+            },
+            {
+              "letter": "d",
+              "text": "Papi, tu nous racontes ta …… avec mamie ?",
+              "answer": "rencontre"
+            },
+            {
+              "letter": "e",
+              "text": "La vie en couple ? Non, ce n’est pas pour moi, je préfère rester …… .",
+              "answer": "célibataire"
+            },
+            {
+              "letter": "f",
+              "text": "Je ne connais pas encore les parents de mon copain mais je vais …… avec eux le week-end prochain.",
+              "answer": "faire connaissance"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "ordering",
+          "instruction": "Remettez l’histoire de Lise et Luc dans l’ordre.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Ils se sont mariés et ils ont décidé d’avoir un enfant."
+            },
+            {
+              "letter": "b",
+              "text": "Ils sont tombés amoureux."
+            },
+            {
+              "letter": "c",
+              "text": "Lise et Luc se sont rencontrés pendant leur séjour Erasmus à Barcelone.",
+              "example": true
+            },
+            {
+              "letter": "d",
+              "text": "Ils se sont séparés 20 ans après leur rencontre."
+            },
+            {
+              "letter": "e",
+              "text": "Ils ont décidé de s’installer ensemble."
+            },
+            {
+              "letter": "f",
+              "text": "Leur enfant est né."
+            }
+          ],
+          "answer": [
+            {
+              "number": 1,
+              "letter": "c",
+              "text": "Lise et Luc se sont rencontrés pendant leur séjour Erasmus à Barcelone.",
+              "example": true
+            },
+            {
+              "number": 2,
+              "letter": "b",
+              "text": "Ils sont tombés amoureux."
+            },
+            {
+              "number": 3,
+              "letter": "c",
+              "text": "Ils ont décidé de s’installer ensemble."
+            },
+            {
+              "number": 4,
+              "letter": "d",
+              "text": "Ils se sont mariés et ils ont décidé d’avoir un enfant."
+            },
+            {
+              "number": 5,
+              "letter": "e",
+              "text": "Leur enfant est né."
+            },
+            {
+              "number": 6,
+              "letter": "f",
+              "text": "Ils se sont séparés 20 ans après leur rencontre."
+            }
+          ],
+          "answer_source": "Corrigé du livre, tel qu’imprimé"
+        },
+        {
+          "number": 4,
+          "type": "audio_matching",
+          "audio_track": 2,
+          "instruction": "Écoutez et associez les images aux situations.",
+          "images": {
+            "1": "Un groupe d’amis qui sourient",
+            "2": "Une chanteuse sur scène avec un micro",
+            "3": "Une famille avec des enfants sur un lit",
+            "4": "Un couple qui s’enlace",
+            "5": "Un mariage (mariés)",
+            "6": "Une étudiante avec son diplôme"
+          },
+          "answer": {
+            "1": "f",
+            "2": "c",
+            "3": "d",
+            "4": "a",
+            "5": "b",
+            "6": "e"
+          },
+          "answer_printed": {
+            "1": "f",
+            "2": "c",
+            "3": "d",
+            "4": "i.",
+            "5": "b",
+            "6": "e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cahier_grammar_2",
+      "type": "grammar",
+      "page": 5,
+      "title": "La phrase négative",
+      "livre_reference": "p. 19",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "word_order",
+          "instruction": "Remettez les éléments dans l’ordre pour former des phrases à la forme négative.",
+          "items": [
+            {
+              "letter": "a",
+              "words": "fait / jamais / Mick / ne / de / judo.",
+              "answer": "Mick ne fait jamais de judo.",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "words": "le / match / ne / regarde / à / la / télé. / Personne",
+              "answer": "Personne ne regarde le match à la télé."
+            },
+            {
+              "letter": "c",
+              "words": "aux / vidéo. / Je / joue / ne / pas / jeux",
+              "answer": "Je ne joue plus aux jeux vidéo."
+            },
+            {
+              "letter": "d",
+              "words": "Nous / mangeons / rien. / ne",
+              "answer": "Nous ne mangeons rien."
+            },
+            {
+              "letter": "e",
+              "words": "randonnée. / ne / Personne / fait / de",
+              "answer": "Personne ne fait de randonnée."
+            },
+            {
+              "letter": "f",
+              "words": "jamais / moi. / Romain / danse / avec / ne",
+              "answer": "Romain ne danse jamais avec moi."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "fill_in",
+          "instruction": "Complétez les phrases avec les éléments de la négation rien, personne, jamais, plus.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "– Il y a quelqu’un ? – Non, il n’y a ……",
+              "answer": "personne",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "– Tu fais quoi demain soir ? – Je ne fais ……, j’ai envie de me reposer.",
+              "answer": "rien"
+            },
+            {
+              "letter": "c",
+              "text": "– Damien habite toujours à Cannes ? – Non, il n’habite …… à Cannes, il a déménagé à Toulouse.",
+              "answer": "plus"
+            },
+            {
+              "letter": "d",
+              "text": "– Tu regardes des séries parfois ? – Non, je ne regarde …… de séries, je n’aime pas ça.",
+              "answer": "jamais"
+            },
+            {
+              "letter": "e",
+              "text": "– Tu as rencontré quelqu’un au concert ? – Non, je n’ai rencontré ……, je suis resté seul.",
+              "answer": "personne"
+            },
+            {
+              "letter": "f",
+              "text": "– Tu fais encore de l’escalade ? – Non, je ne fais …… de sport, j’ai arrêté l’année dernière.",
+              "answer": "plus"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "transform",
+          "instruction": "Transformez les phrases au passé composé.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Il ne va jamais au cirque.",
+              "answer": "Il n’est jamais allé au cirque.",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "Je ne vois personne.",
+              "answer": "Je n’ai vu personne."
+            },
+            {
+              "letter": "c",
+              "text": "Vous ne mangez rien ?",
+              "answer": "Vous n’avez rien mangé ?"
+            },
+            {
+              "letter": "d",
+              "text": "Elle ne fait plus de vélo.",
+              "answer": "Elle n’a plus fait de vélo ?"
+            },
+            {
+              "letter": "e",
+              "text": "Tu ne joues jamais au foot ?",
+              "answer": "Tu n’as jamais joué au foot ?"
+            },
+            {
+              "letter": "f",
+              "text": "Nous n’avons rien à faire.",
+              "answer": "Nous n’avons rien eu à faire ?"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "type": "audio_answer_with_negation",
+          "audio_track": 3,
+          "instruction": "Écoutez et répondez aux questions avec la négation proposée.",
+          "items": [
+            {
+              "letter": "a",
+              "negation": "jamais",
+              "answer": "Non, je ne fais jamais de jardinage.",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "negation": "personne",
+              "answer": "Je ne vais au concert avec personne."
+            },
+            {
+              "letter": "c",
+              "negation": "rien",
+              "answer": "Je n’ai rien dit."
+            },
+            {
+              "letter": "d",
+              "negation": "plus",
+              "answer": "Non, je n’ai plus d’argent."
+            },
+            {
+              "letter": "e",
+              "negation": "personne",
+              "answer": "Non, personne ne parle italien ici."
+            },
+            {
+              "letter": "f",
+              "negation": "jamais",
+              "answer": "Non, je n’ai jamais vu ce spectacle ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cahier_vocab_2",
+      "type": "vocabulary",
+      "page": 6,
+      "title": "Les loisirs",
+      "livre_reference": "p. 21",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "audio_matching",
+          "audio_track": 4,
+          "instruction": "Édouard ou Nicole ? Écoutez et dites qui veut faire quoi ?",
+          "images": {
+            "1": "Les jeux vidéo",
+            "2": "Le cirque (spectacle)",
+            "3": "La peinture",
+            "4": "L’escalade / la via ferrata",
+            "5": "Le théâtre (pièce de théâtre)",
+            "6": "Le jardinage"
+          },
+          "answer": {
+            "Édouard": [
+              5,
+              1,
+              4
+            ],
+            "Nicole": [
+              2,
+              3,
+              6
+            ]
+          }
+        },
+        {
+          "number": 2,
+          "type": "choose_correct_form",
+          "instruction": "Entourez la bonne réponse.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Ce week-end, je vais faire une randonnée / du bricolage à la montagne.",
+              "choices": [
+                "une randonnée",
+                "du bricolage"
+              ],
+              "answer": "une randonnée",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "On va au cinéma / musée ? Il y a un film intéressant.",
+              "choices": [
+                "cinéma",
+                "musée"
+              ],
+              "answer": "cinéma"
+            },
+            {
+              "letter": "c",
+              "text": "C’est un sportif professionnel, il a fait beaucoup de compétitions / spectacles.",
+              "choices": [
+                "compétitions",
+                "spectacles"
+              ],
+              "answer": "compétitions"
+            },
+            {
+              "letter": "d",
+              "text": "J’adore le château / concert de Fontainebleau, c’est vraiment un beau monument.",
+              "choices": [
+                "château",
+                "concert"
+              ],
+              "answer": "château"
+            },
+            {
+              "letter": "e",
+              "text": "Maman, je peux aller dans ma chambre faire de l’escalade / la peinture ?",
+              "choices": [
+                "l’escalade",
+                "la peinture"
+              ],
+              "answer": "la peinture"
+            },
+            {
+              "letter": "f",
+              "text": "Dominique aime beaucoup les activités en plein air, surtout le judo / vélo.",
+              "choices": [
+                "judo",
+                "vélo"
+              ],
+              "answer": "vélo"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "fill_text",
+          "instruction": "Complétez le texte avec les mots suivants :",
+          "choices": [
+            "musées",
+            "sports nautiques",
+            "amateurs et amatrices",
+            "promenades",
+            "visites guidées",
+            "monuments"
+          ],
+          "title": "Bienvenue à Rennes !",
+          "subtitle": "Voici quelques activités proposées par notre ville.",
+          "paragraphs": [
+            {
+              "text": "Vous aimez les musées ? Venez visiter l’exposition Celtique au musée de Bretagne.",
+              "example": true
+            },
+            {
+              "text": "Envie de nature ? En famille ou en amoureux, faites de jolies …… dans les bois sauvages et mystérieux de Rennes !",
+              "answer": "promenades"
+            },
+            {
+              "text": "Vous aimez les …… ? Louez un paddle ou un kayak sur le quai Saint Cyr pour découvrir la ville.",
+              "answer": "sports nautiques"
+            },
+            {
+              "text": "Vous voulez découvrir le centre historique ? L’office de tourisme organise régulièrement des …… .",
+              "answer": "visites guidées"
+            },
+            {
+              "text": "Pour les …… de jeux vidéo, le Stunfest festival est là pour vous !",
+              "answer": "amateurs et amatrices"
+            },
+            {
+              "text": "Vous pouvez aussi sortir de Rennes et aller visiter d’autres ……, le Château de Fougères, le Château de Dinan ou encore le Château de Vitré ne sont pas très loin !",
+              "answer": "monuments"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cahier_grammar_3",
+      "type": "grammar",
+      "page": 7,
+      "title": "Les indicateurs de temps",
+      "livre_reference": "p. 23",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "fill_in",
+          "instruction": "Complétez avec il y a et depuis.",
+          "choices": [
+            "il y a",
+            "depuis"
+          ],
+          "items": [
+            {
+              "letter": "a",
+              "text": "Jérôme s’est marié …… deux ans.",
+              "answer": "il y a",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "Juliette et Miro sont en couple …… six mois.",
+              "answer": "depuis"
+            },
+            {
+              "letter": "c",
+              "text": "Manu a commencé à travailler dans cette entreprise …… dix ans.",
+              "answer": "il y a"
+            },
+            {
+              "letter": "d",
+              "text": "Nous faisons de la randonnée ensemble …… longtemps.",
+              "answer": "depuis"
+            },
+            {
+              "letter": "e",
+              "text": "La nouvelle chanson d’Angèle est sortie …… une semaine.",
+              "answer": "il y a"
+            },
+            {
+              "letter": "f",
+              "text": "Adeline fait du paddle …… une heure.",
+              "answer": "depuis"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "choose_correct_form",
+          "instruction": "Entourez la bonne réponse.",
+          "choices": [
+            "depuis",
+            "il y a",
+            "pendant"
+          ],
+          "items": [
+            {
+              "letter": "a",
+              "text": "Bertille a commencé à chanter depuis / il y a / pendant trois ans.",
+              "answer": "il y a",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "Karim ne fait plus de vélo depuis / il y a / pendant janvier.",
+              "answer": "depuis"
+            },
+            {
+              "letter": "c",
+              "text": "Hier, Maryse a fait de l’escalade depuis / il y a / pendant quatre heures.",
+              "answer": "pendant"
+            },
+            {
+              "letter": "d",
+              "text": "Je suis allée au Cirque d’hiver Bouglione depuis / il y a / pendant un an.",
+              "answer": "il y a"
+            },
+            {
+              "letter": "e",
+              "text": "Tu fais de la compétition depuis / il y a / pendant longtemps ?",
+              "answer": "depuis"
+            },
+            {
+              "letter": "f",
+              "text": "Je vais au Festival de Cannes chaque année, depuis / il y a / pendant huit ans.",
+              "answer": "depuis"
+            },
+            {
+              "letter": "g",
+              "text": "Mes parents aiment faire des activités en plein air depuis / il y a / pendant leurs vacances d’été.",
+              "answer": "pendant"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "fill_text",
+          "instruction": "Complétez les phrases avec depuis, il y a, pendant.",
+          "choices": [
+            "depuis",
+            "il y a",
+            "pendant"
+          ],
+          "paragraphs": [
+            {
+              "letter": "a",
+              "text": "L’acteur français Pierre Niney est né le 13 mars 1989 et il est comédien …… l’âge de 11 ans.",
+              "answer": "depuis",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "Il a fait des études de théâtre …… plusieurs années.",
+              "answer": "pendant"
+            },
+            {
+              "letter": "c",
+              "text": "Il est en couple avec l’actrice et la photographe australienne Natasha Andrews …… huit ans.",
+              "answer": "depuis"
+            },
+            {
+              "letter": "d",
+              "text": "Il a été comédien à la Comédie-Française …… cinq ans, de 2010 à 2015.",
+              "answer": "pendant"
+            },
+            {
+              "letter": "e",
+              "text": "Il est célèbre surtout …… 2015. Il a été l’acteur principal dans le film Yves Saint Laurent et il a reçu le César du meilleur acteur.",
+              "answer": "depuis"
+            },
+            {
+              "letter": "f",
+              "text": "Pierre Niney a aussi joué dans la série La Flamme. La série est sortie …… deux ans.",
+              "answer": "il y a"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "type": "audio_fill_in",
+          "audio_track": 5,
+          "instruction": "Écoutez et complétez les phrases avec pendant, depuis et il y a.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "J’ai joué au foot …… deux heures.",
+              "answer": "pendant",
+              "example": true
+            },
+            {
+              "letter": "b",
+              "text": "Nous sommes allées au Festival de Vercors …… deux ans.",
+              "answer": "il y a"
+            },
+            {
+              "letter": "c",
+              "text": "Je ne fais plus de compétition …… un an.",
+              "answer": "depuis"
+            },
+            {
+              "letter": "d",
+              "text": "Annabelle est restée à Berlin …… cinq mois.",
+              "answer": "pendant"
+            },
+            {
+              "letter": "e",
+              "text": "Je travaille ici …… dix jours.",
+              "answer": "depuis"
+            },
+            {
+              "letter": "f",
+              "text": "J’ai rencontré mon meilleur ami …… 22 ans.",
+              "answer": "il y a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cahier_phonetique",
+      "type": "phonie-graphie",
+      "page": 8,
+      "title": "Les sons [y] et [u]",
+      "livre_reference": "p. 24",
+      "exercises": [
+        {
+          "number": 1,
+          "section": "Discrimination",
+          "audio_track": 6,
+          "instruction": "Écoutez et dites dans quel ordre vous entendez les sons [y] et [u].",
+          "table_rows": [
+            "[y] de « tutu » est avant [u] de « coucou »",
+            "[u] de « coucou » est avant [y] de « tutu »"
+          ],
+          "items": [
+            {
+              "letter": "a",
+              "text": "Tu as préparé toutes tes affaires.",
+              "answer": "[y] avant [u]",
+              "example": true,
+              "corrige_bold_words": [
+                "Tu",
+                "toutes"
+              ]
+            },
+            {
+              "letter": "b",
+              "text": "Hier vous avez vu un film.",
+              "corrige_bold_words": [
+                "vous",
+                "vu"
+              ]
+            },
+            {
+              "letter": "c",
+              "text": "Dans un bar, debout, j’ai bu un cocktail de fruits.",
+              "corrige_bold_words": [
+                "debout",
+                "bu"
+              ]
+            },
+            {
+              "letter": "d",
+              "text": "Il a lu à son fils l’histoire du loup.",
+              "corrige_bold_words": [
+                "lu",
+                "loup"
+              ]
+            },
+            {
+              "letter": "e",
+              "text": "Sa moto à trois roues est dans la rue.",
+              "corrige_bold_words": [
+                "roues",
+                "rue"
+              ]
+            },
+            {
+              "letter": "f",
+              "text": "Elle a su gérer son stress et ne pas être sous pression.",
+              "corrige_bold_words": [
+                "su",
+                "sous"
+              ]
+            }
+          ],
+          "answer_source": "Corrigé : mots en gras uniquement (pas de tableau rempli)"
+        },
+        {
+          "number": 2,
+          "section": "Articulation",
+          "audio_track": 7,
+          "instruction": "Écoutez et répétez les dialogues avec une intonation montante ↑ pour la question et une intonation descendante ↓ pour la réponse.",
+          "items": [
+            {
+              "letter": "a",
+              "question": "C’est sûr ?",
+              "answer": "Non, c’est fou !"
+            },
+            {
+              "letter": "b",
+              "question": "Mon livre, tu l’as lu ?",
+              "answer": "Non, je vais le lire tout de suite !"
+            },
+            {
+              "letter": "c",
+              "question": "C’est à Jules ?",
+              "answer": "Non, c’est à vous."
+            },
+            {
+              "letter": "d",
+              "question": "C’est dur ?",
+              "answer": "Non, c’est mou."
+            },
+            {
+              "letter": "e",
+              "question": "Le jus de pomme, tu l’as bu ?",
+              "answer": "Oui, il est bon et il est doux !",
+              "corrige_text": "– Le jus de pommes, tu l’as bu ? ↑ – Oui, il est bon et il est doux ! ↓"
+            }
+          ],
+          "intonation": {
+            "question": "↑",
+            "answer": "↓"
+          }
+        },
+        {
+          "number": 3,
+          "section": "Dictée",
+          "audio_track": 8,
+          "instruction": "Écoutez le texte et complétez les mots.",
+          "text": "Sal…t Jules, au mois d’a…t, n…s avons d… ann…ler nos vacances. N…s avons … un gros problème. Et toi, tu pars … p…r les vacances ? À bientôt. Louis.",
+          "answers": [
+            "u",
+            "oû",
+            "ou",
+            "û",
+            "u",
+            "ou",
+            "eu",
+            "où",
+            "ou"
+          ],
+          "answer_text": "Salut Jules, au mois d’août, nous avons dû annuler nos vacances. Nous avons eu un gros problème. Et toi tu pars où pour les vacances ? À bientôt Louis."
+        },
+        {
+          "number": 4,
+          "section": "Interprétation",
+          "audio_track": 9,
+          "instruction": "Écoutez le texte, puis lisez-le à voix haute.",
+          "text": "Je m’appelle Coumba, je suis camerounaise. J’ai participé aux Jeux de la Francophonie de 2017 en Côte d’Ivoire. Il y avait plus de 4 000 jeunes sportifs et artistes venus de 84 pays francophones. Nous avons pu participer à beaucoup de compétitions et concours. C’était une expérience inoubliable !"
+        }
+      ]
+    }
+  ]
+}
