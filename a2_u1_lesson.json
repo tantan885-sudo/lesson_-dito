@@ -18,57 +18,142 @@
       "title": "Gaël Faye, artiste multi-talents",
       "audio_track": 2,
       "tagline": "Écrivain, musicien, compositeur, interprète… et scénariste.",
-      "map_countries": ["Cameroun", "République centrafricaine", "Soudan du Sud", "Gabon", "Rép. du Congo", "République démocratique du Congo", "Ouganda", "Rwanda", "Burundi", "Tanzanie", "Angola", "Zambie"],
+      "map_countries": [
+        "Cameroun",
+        "République centrafricaine",
+        "Soudan du Sud",
+        "Gabon",
+        "Rép. du Congo",
+        "République démocratique du Congo",
+        "Ouganda",
+        "Rwanda",
+        "Burundi",
+        "Tanzanie",
+        "Angola",
+        "Zambie"
+      ],
       "au_fait": "Un(e) interprète est un(e) artiste qui joue un morceau de musique, chante une chanson ou joue un rôle au théâtre ou au cinéma.",
       "transcript": [
-        {"speaker": "La journaliste", "text": "Bonjour Gaël Faye !"},
-        {"speaker": "Gaël Faye", "text": "Bonjour !"},
-        {"speaker": "La journaliste", "text": "Vous êtes écrivain, musicien, compositeur et interprète… et scénariste."},
-        {"speaker": "Gaël Faye", "text": "Oui."},
-        {"speaker": "La journaliste", "text": "Vous êtes né au Burundi d’une mère rwandaise et d’un père français. Vous avez grandi là-bas puis vous êtes venu en France en 1995. Vous avez fait vos études à Versailles. Vous êtes devenu trader à Londres."},
-        {"speaker": "Gaël Faye", "text": "Non, pas vraiment trader. J’ai…"},
-        {"speaker": "La journaliste", "text": "On va en reparler. Finalement, vous avez changé de vie, vous vous êtes tourné vers la musique. Et, après votre premier album Pili pili sur un croissant au beurre, une éditrice vous a contacté pour vous proposer d’écrire un livre, ce que vous avez fait. Donc c’était Petit pays, ça c’était en 2016, et c’est votre seul livre à ce jour. C’est un roman inspiré par votre enfance au Burundi. Un million d’exemplaires dans le monde, beaucoup de prix, le Goncourt des lycéens par exemple. Et il vient d’être adapté en film qui est sorti en août et que vous avez coécrit. Entre-temps, vous avez écrit deux autres albums de musique, et puis vous avez un livre, un album pour la jeunesse, qui sort aux Arènes, et bientôt un nouveau disque."}
+        {
+          "speaker": "La journaliste",
+          "text": "Bonjour Gaël Faye !"
+        },
+        {
+          "speaker": "Gaël Faye",
+          "text": "Bonjour !"
+        },
+        {
+          "speaker": "La journaliste",
+          "text": "Vous êtes écrivain, musicien, compositeur et interprète… et scénariste."
+        },
+        {
+          "speaker": "Gaël Faye",
+          "text": "Oui."
+        },
+        {
+          "speaker": "La journaliste",
+          "text": "Vous êtes né au Burundi d’une mère rwandaise et d’un père français. Vous avez grandi là-bas puis vous êtes venu en France en 1995. Vous avez fait vos études à Versailles. Vous êtes devenu trader à Londres."
+        },
+        {
+          "speaker": "Gaël Faye",
+          "text": "Non, pas vraiment trader. J’ai…"
+        },
+        {
+          "speaker": "La journaliste",
+          "text": "On va en reparler. Finalement, vous avez changé de vie, vous vous êtes tourné vers la musique. Et, après votre premier album Pili pili sur un croissant au beurre, une éditrice vous a contacté pour vous proposer d’écrire un livre, ce que vous avez fait. Donc c’était Petit pays, ça c’était en 2016, et c’est votre seul livre à ce jour. C’est un roman inspiré par votre enfance au Burundi. Un million d’exemplaires dans le monde, beaucoup de prix, le Goncourt des lycéens par exemple. Et il vient d’être adapté en film qui est sorti en août et que vous avez coécrit. Entre-temps, vous avez écrit deux autres albums de musique, et puis vous avez un livre, un album pour la jeunesse, qui sort aux Arènes, et bientôt un nouveau disque."
+        }
       ],
       "source": "Les Arènes du savoir, 20/09/2020",
       "comprehension_orale": {
         "entree_en_matiere": [
-          {"number": 1, "question": "Regardez la couverture du livre (qui reproduit l’affiche du film) et la carte. De quel pays (parmi les 3 coloriés) parle Petit Pays ?"}
+          {
+            "number": 1,
+            "question": "Regardez la couverture du livre (qui reproduit l’affiche du film) et la carte. De quel pays (parmi les 3 coloriés) parle Petit Pays ?"
+          }
         ],
         "premiere_ecoute": [
-          {"number": 2, "question": "Où est né Gaël Faye ?", "options": {"a": "En France.", "b": "Au Rwanda.", "c": "Au Burundi."}},
-          {"number": 3, "question": "De quelles origines sont ses parents ? Choisissez la bonne réponse.", "sub_questions": [
-            {"letter": "a", "text": "Sa mère est burundaise / française / rwandaise."},
-            {"letter": "b", "text": "Son père est burundais / français / rwandais."}
-          ]},
-          {"number": 4, "question": "Dans quels pays a-t-il vécu ?", "options": {"a": "En France.", "b": "Au Burundi.", "c": "Au Rwanda.", "d": "Au Royaume-Uni.", "e": "Aux États-Unis."}}
+          {
+            "number": 2,
+            "question": "Où est né Gaël Faye ?",
+            "options": {
+              "a": "En France.",
+              "b": "Au Rwanda.",
+              "c": "Au Burundi."
+            },
+            "answer": "c"
+          },
+          {
+            "number": 3,
+            "question": "De quelles origines sont ses parents ? Choisissez la bonne réponse.",
+            "sub_questions": [
+              {
+                "letter": "a",
+                "text": "Sa mère est burundaise / française / rwandaise."
+              },
+              {
+                "letter": "b",
+                "text": "Son père est burundais / français / rwandais."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "question": "Dans quels pays a-t-il vécu ?",
+            "options": {
+              "a": "En France.",
+              "b": "Au Burundi.",
+              "c": "Au Rwanda.",
+              "d": "Au Royaume-Uni.",
+              "e": "Aux États-Unis."
+            }
+          }
         ],
         "deuxieme_ecoute": [
-          {"number": 5, "question": "Classez les créations de Gaël Faye selon ses professions.",
-           "options": {
-             "a": "L’album Pili pili sur un croissant au beurre.",
-             "b": "Le roman Petit Pays.",
-             "c": "Le film Petit Pays.",
-             "d": "Deux autres albums de musique.",
-             "e": "Un album pour la jeunesse.",
-             "f": "Un nouveau disque."
-           },
-           "table_columns": ["Musicien, compositeur, interprète", "Écrivain", "Scénariste"]}
+          {
+            "number": 5,
+            "question": "Classez les créations de Gaël Faye selon ses professions.",
+            "options": {
+              "a": "L’album Pili pili sur un croissant au beurre.",
+              "b": "Le roman Petit Pays.",
+              "c": "Le film Petit Pays.",
+              "d": "Deux autres albums de musique.",
+              "e": "Un album pour la jeunesse.",
+              "f": "Un nouveau disque."
+            },
+            "table_columns": [
+              "Musicien, compositeur, interprète",
+              "Écrivain",
+              "Scénariste"
+            ]
+          }
         ],
         "vocabulaire": [
-          {"number": 6, "question": "Quels sont les deux sens du mot « album » ?", "options": {"a": "Un film.", "b": "Un disque.", "c": "Un livre avec des images."}}
+          {
+            "number": 6,
+            "question": "Quels sont les deux sens du mot « album » ?",
+            "options": {
+              "a": "Un film.",
+              "b": "Un disque.",
+              "c": "Un livre avec des images."
+            }
+          }
         ]
       },
       "production_orale": [
-        {"number": 7, "instruction": "À deux ! Racontez votre parcours à votre voisin(e).",
-         "pour": {
-           "title": "parler de son parcours",
-           "phrases": [
-             "Je suis né(e) à/en/au(x)…",
-             "J’ai grandi à/en/au(x)…",
-             "Je suis venu(e) ici en 1995…",
-             "J’ai fait mes études à…",
-             "Je suis devenu(e)…"
-           ]}}
+        {
+          "number": 7,
+          "instruction": "À deux ! Racontez votre parcours à votre voisin(e).",
+          "pour": {
+            "title": "parler de son parcours",
+            "phrases": [
+              "Je suis né(e) à/en/au(x)…",
+              "J’ai grandi à/en/au(x)…",
+              "Je suis venu(e) ici en 1995…",
+              "J’ai fait mes études à…",
+              "Je suis devenu(e)…"
+            ]
+          }
+        }
       ]
     },
     {
@@ -78,32 +163,73 @@
       "title": "Une histoire d’amour comme au cinéma",
       "intro": "Leïla Bekhti, l’actrice de la comédie française culte Tout ce qui brille, a raconté dans un long entretien avec le magazine Paris Match sa rencontre avec son mari, Tahar Rahim.",
       "subsections": [
-        {"title": "Leur coup de foudre", "text": "Les deux acteurs ont fait connaissance en 2008 sur le tournage du film de Jacques Audiard Un Prophète. Immédiatement, il y a eu une connexion entre eux, mais ils ont choisi de rester professionnels et de prendre leur temps. Ils ont rejoué ensemble dans la série Netflix The Eddy."},
-        {"title": "Leur vie de famille", "text": "Ils se sont mariés deux ans après leur rencontre. Et, encore une fois, ils ont pris leur temps avant d’agrandir la famille. Leur premier enfant Souleymane est né en 2017. Ils ont ensuite accueilli une petite fille en 2020. Ils ont eu leur troisième enfant en 2021, mais ils n’ont pas voulu dire son prénom aux médias. À propos de Leïla Bekhti, Tahar Rahim a déclaré dans une interview avec le magazine Elle : « Je l’aime comme un fou. C’est ma femme, mon amour, ma meilleure amie. » C’est un couple de stars uni et très discret."}
+        {
+          "title": "Leur coup de foudre",
+          "text": "Les deux acteurs ont fait connaissance en 2008 sur le tournage du film de Jacques Audiard Un Prophète. Immédiatement, il y a eu une connexion entre eux, mais ils ont choisi de rester professionnels et de prendre leur temps. Ils ont rejoué ensemble dans la série Netflix The Eddy."
+        },
+        {
+          "title": "Leur vie de famille",
+          "text": "Ils se sont mariés deux ans après leur rencontre. Et, encore une fois, ils ont pris leur temps avant d’agrandir la famille. Leur premier enfant Souleymane est né en 2017. Ils ont ensuite accueilli une petite fille en 2020. Ils ont eu leur troisième enfant en 2021, mais ils n’ont pas voulu dire son prénom aux médias. À propos de Leïla Bekhti, Tahar Rahim a déclaré dans une interview avec le magazine Elle : « Je l’aime comme un fou. C’est ma femme, mon amour, ma meilleure amie. » C’est un couple de stars uni et très discret."
+        }
       ],
-      "glossary": [{"term": "coup de foudre", "definition": "Amour immédiat, à la première rencontre."}],
+      "glossary": [
+        {
+          "term": "coup de foudre",
+          "definition": "Amour immédiat, à la première rencontre."
+        }
+      ],
       "source": "Julia Duranton, Cosmopolitan, 24 juin 2021",
       "comprehension_ecrite": {
         "entree_en_matiere": [
-          {"number": 1, "question": "Connaissez-vous les personnes sur la photo ?"}
+          {
+            "number": 1,
+            "question": "Connaissez-vous les personnes sur la photo ?"
+          }
         ],
         "premiere_lecture": [
-          {"number": 2, "question": "Quelle est la profession de Leïla Bekhti et Tahar Rahim ?"},
-          {"number": 3, "question": "Où se sont-ils rencontrés ?"},
-          {"number": 4, "question": "Combien d’enfants ont-ils ?"}
+          {
+            "number": 2,
+            "question": "Quelle est la profession de Leïla Bekhti et Tahar Rahim ?"
+          },
+          {
+            "number": 3,
+            "question": "Où se sont-ils rencontrés ?"
+          },
+          {
+            "number": 4,
+            "question": "Combien d’enfants ont-ils ?"
+          }
         ],
         "deuxieme_lecture": [
-          {"number": 5, "instruction": "Répondez par vrai ou faux et justifiez votre réponse avec une phrase du texte.", "items": [
-            {"letter": "a", "text": "Leïla et Tahar ont joué ensemble une seule fois."},
-            {"letter": "b", "text": "Tahar Rahim est très amoureux de sa femme."}
-          ]}
+          {
+            "number": 5,
+            "instruction": "Répondez par vrai ou faux et justifiez votre réponse avec une phrase du texte.",
+            "items": [
+              {
+                "letter": "a",
+                "text": "Leïla et Tahar ont joué ensemble une seule fois.",
+                "answer": false
+              },
+              {
+                "letter": "b",
+                "text": "Tahar Rahim est très amoureux de sa femme.",
+                "answer": true
+              }
+            ]
+          }
         ],
         "vocabulaire": [
-          {"number": 6, "question": "Trouvez dans le texte une expression qui signifie « ne pas aller trop vite »."}
+          {
+            "number": 6,
+            "question": "Trouvez dans le texte une expression qui signifie « ne pas aller trop vite »."
+          }
         ]
       },
       "production_ecrite": [
-        {"number": 7, "instruction": "Racontez l’histoire d’un couple célèbre."}
+        {
+          "number": 7,
+          "instruction": "Racontez l’histoire d’un couple célèbre."
+        }
       ]
     },
     {
@@ -114,45 +240,101 @@
       "audio_track": 3,
       "quote": "Je suis tombée amoureuse de la France.",
       "transcript": [
-        {"speaker": "Le présentateur", "text": "Bonjour, bienvenue dans notre podcast Ma vie en France. Aujourd’hui nous sommes avec Giulia. Elle est italienne et elle va nous raconter son parcours. Bonjour Giulia ! Vous venez de Rome, c’est ça ?"},
-        {"speaker": "Giulia", "text": "Oui, j’ai grandi dans un petit village près de Rome."},
-        {"speaker": "Le présentateur", "text": "Quand avez-vous décidé de venir vivre en France ?"},
-        {"speaker": "Giulia", "text": "J’ai fait un séjour Erasmus à Bordeaux en 2019 et je suis tombée amoureuse de la France. Ensuite, je suis rentrée à Rome pour finir mes études. Un an plus tard, quand j’ai obtenu mon diplôme, j’ai décidé de revenir en France et je me suis installée à Lyon."},
-        {"speaker": "Le présentateur", "text": "Vous aimez votre nouvelle vie à Lyon ?"},
-        {"speaker": "Giulia", "text": "Oui, j’adore cette ville et je me suis fait de nouveaux amis."},
-        {"speaker": "Le présentateur", "text": "Vous vivez seule ?"},
-        {"speaker": "Giulia", "text": "En fait, quand je suis arrivée, j’ai rencontré un Français, nous avons vécu ensemble pendant un an, mais nous nous sommes séparés et j’ai déménagé. Maintenant, je suis célibataire et j’habite seule."},
-        {"speaker": "Le présentateur", "text": "Et comment ça s’est passé au niveau professionnel ?"},
-        {"speaker": "Giulia", "text": "Je fais un stage dans une entreprise française mais il se termine bientôt, alors je compte chercher du travail dans une entreprise internationale."},
-        {"speaker": "Le présentateur", "text": "Et vous avez l’intention de rester en France ?"}
+        {
+          "speaker": "Le présentateur",
+          "text": "Bonjour, bienvenue dans notre podcast Ma vie en France. Aujourd’hui nous sommes avec Giulia. Elle est italienne et elle va nous raconter son parcours. Bonjour Giulia ! Vous venez de Rome, c’est ça ?"
+        },
+        {
+          "speaker": "Giulia",
+          "text": "Oui, j’ai grandi dans un petit village près de Rome."
+        },
+        {
+          "speaker": "Le présentateur",
+          "text": "Quand avez-vous décidé de venir vivre en France ?"
+        },
+        {
+          "speaker": "Giulia",
+          "text": "J’ai fait un séjour Erasmus à Bordeaux en 2019 et je suis tombée amoureuse de la France. Ensuite, je suis rentrée à Rome pour finir mes études. Un an plus tard, quand j’ai obtenu mon diplôme, j’ai décidé de revenir en France et je me suis installée à Lyon."
+        },
+        {
+          "speaker": "Le présentateur",
+          "text": "Vous aimez votre nouvelle vie à Lyon ?"
+        },
+        {
+          "speaker": "Giulia",
+          "text": "Oui, j’adore cette ville et je me suis fait de nouveaux amis."
+        },
+        {
+          "speaker": "Le présentateur",
+          "text": "Vous vivez seule ?"
+        },
+        {
+          "speaker": "Giulia",
+          "text": "En fait, quand je suis arrivée, j’ai rencontré un Français, nous avons vécu ensemble pendant un an, mais nous nous sommes séparés et j’ai déménagé. Maintenant, je suis célibataire et j’habite seule."
+        },
+        {
+          "speaker": "Le présentateur",
+          "text": "Et comment ça s’est passé au niveau professionnel ?"
+        },
+        {
+          "speaker": "Giulia",
+          "text": "Je fais un stage dans une entreprise française mais il se termine bientôt, alors je compte chercher du travail dans une entreprise internationale."
+        },
+        {
+          "speaker": "Le présentateur",
+          "text": "Et vous avez l’intention de rester en France ?"
+        }
       ],
       "comprehension_orale": {
         "entree_en_matiere": [
-          {"number": 1, "question": "Lisez la phrase extraite du document. D’après vous, la personne interviewée est-elle française ?"}
+          {
+            "number": 1,
+            "question": "Lisez la phrase extraite du document. D’après vous, la personne interviewée est-elle française ?"
+          }
         ],
         "premiere_ecoute": [
-          {"number": 2, "question": "D’où vient Giulia ?"},
-          {"number": 3, "question": "Dans quel pays vit-elle maintenant ?"}
+          {
+            "number": 2,
+            "question": "D’où vient Giulia ?"
+          },
+          {
+            "number": 3,
+            "question": "Dans quel pays vit-elle maintenant ?"
+          }
         ],
         "deuxieme_ecoute": [
-          {"number": 4, "instruction": "Remettez le parcours de Giulia dans l’ordre.", "options": {
-            "a": "Elle s’est installée à Lyon.",
-            "b": "Elle a fait un séjour Erasmus à Bordeaux.",
-            "c": "Elle a grandi près de Rome.",
-            "d": "Elle a fini ses études à Rome."
-          }}
+          {
+            "number": 4,
+            "instruction": "Remettez le parcours de Giulia dans l’ordre.",
+            "options": {
+              "a": "Elle s’est installée à Lyon.",
+              "b": "Elle a fait un séjour Erasmus à Bordeaux.",
+              "c": "Elle a grandi près de Rome.",
+              "d": "Elle a fini ses études à Rome."
+            },
+            "order": [
+              "c",
+              "b",
+              "d",
+              "a"
+            ]
+          }
         ]
       },
       "production_orale": [
-        {"number": 5, "instruction": "À deux ! Racontez pourquoi vous avez décidé d’apprendre le français et ce que vous comptez faire avec cette langue.",
-         "pour": {
-           "title": "exprimer son intention de faire quelque chose",
-           "phrases": [
-             "Je compte chercher du travail.",
-             "J’ai l’intention de rester en France.",
-             "Je pense rentrer en Italie.",
-             "C’est décidé !"
-           ]}}
+        {
+          "number": 5,
+          "instruction": "À deux ! Racontez pourquoi vous avez décidé d’apprendre le français et ce que vous comptez faire avec cette langue.",
+          "pour": {
+            "title": "exprimer son intention de faire quelque chose",
+            "phrases": [
+              "Je compte chercher du travail.",
+              "J’ai l’intention de rester en France.",
+              "Je pense rentrer en Italie.",
+              "C’est décidé !"
+            ]
+          }
+        }
       ]
     },
     {
@@ -161,13 +343,32 @@
       "page": 16,
       "title": "Le passé composé",
       "echauffement": [
-        {"number": 1, "instruction": "Observez les verbes soulignés. Quel est l’auxiliaire et quel est l’infinitif de chaque verbe ?", "items": [
-          {"letter": "a", "text": "Vous avez écrit deux autres albums."},
-          {"letter": "b", "text": "Ils ont choisi de rester professionnels."},
-          {"letter": "c", "text": "Ils se sont mariés deux ans après leur rencontre."},
-          {"letter": "d", "text": "Je suis tombée amoureuse de la France."}
-        ]},
-        {"number": 2, "question": "Les participes passés s’accordent avec quel auxiliaire ?"}
+        {
+          "number": 1,
+          "instruction": "Observez les verbes soulignés. Quel est l’auxiliaire et quel est l’infinitif de chaque verbe ?",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Vous avez écrit deux autres albums."
+            },
+            {
+              "letter": "b",
+              "text": "Ils ont choisi de rester professionnels."
+            },
+            {
+              "letter": "c",
+              "text": "Ils se sont mariés deux ans après leur rencontre."
+            },
+            {
+              "letter": "d",
+              "text": "Je suis tombée amoureuse de la France."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "question": "Les participes passés s’accordent avec quel auxiliaire ?"
+        }
       ],
       "fonctionnement": {
         "number": 3,
@@ -176,44 +377,211 @@
         "formation": "On le forme avec l’auxiliaire être ou avoir au présent de l’indicatif + le participe passé du verbe.",
         "avoir": {
           "rule": "La majorité des verbes se conjuguent avec l’auxiliaire avoir. Avec cet auxiliaire, le participe passé ne s’accorde pas avec le sujet.",
-          "examples": ["Elle a décidé de revenir en France.", "Ils ont fait connaissance en 2018."]
+          "examples": [
+            "Elle a décidé de revenir en France.",
+            "Ils ont fait connaissance en 2018."
+          ]
         },
         "etre": {
           "rule": "17 verbes de mouvement ou de changement se conjuguent avec être. Avec cet auxiliaire, en général, le participe passé s’accorde avec le sujet.",
-          "verbs": ["aller", "arriver", "descendre", "devenir", "entrer", "monter", "mourir", "naître", "partir", "passer", "rentrer", "rester", "retourner", "revenir", "sortir", "tomber", "venir"],
-          "examples": ["Elle est rentrée à Rome.", "Ils sont tombés amoureux."]
+          "verbs": [
+            "aller",
+            "arriver",
+            "descendre",
+            "devenir",
+            "entrer",
+            "monter",
+            "mourir",
+            "naître",
+            "partir",
+            "passer",
+            "rentrer",
+            "rester",
+            "retourner",
+            "revenir",
+            "sortir",
+            "tomber",
+            "venir"
+          ],
+          "examples": [
+            "Elle est rentrée à Rome.",
+            "Ils sont tombés amoureux."
+          ]
         },
         "pronominaux": {
           "rule": "Les verbes pronominaux se conjuguent tous avec ……",
-          "examples": ["Je me suis installée à Lyon.", "Nous nous sommes séparés."]
+          "examples": [
+            "Je me suis installée à Lyon.",
+            "Nous nous sommes séparés."
+          ]
         }
       },
       "participes_passes": {
         "number": 4,
         "instruction": "Complétez les tableaux avec les participes passés.",
         "regular": [
-          {"verbs_in": "-er", "participle_in": "-é", "examples": [["jouer", "joué"], ["raconter", "raconté"]]},
-          {"verbs_in": "-ir", "participle_in": "-i", "examples": [["choisir", "choisi"], ["grandir", "grandi"], ["sortir", "sorti"]]},
-          {"verbs_in": "-re / -dre / -oir", "participle_in": "-u", "examples": [["lire", "lu"], ["perdre", "perdu"], ["vouloir", "voulu"]]}
+          {
+            "verbs_in": "-er",
+            "participle_in": "-é",
+            "examples": [
+              [
+                "jouer",
+                "joué"
+              ],
+              [
+                "raconter",
+                "raconté"
+              ]
+            ]
+          },
+          {
+            "verbs_in": "-ir",
+            "participle_in": "-i",
+            "examples": [
+              [
+                "choisir",
+                "choisi"
+              ],
+              [
+                "grandir",
+                "grandi"
+              ],
+              [
+                "sortir",
+                "sorti"
+              ]
+            ]
+          },
+          {
+            "verbs_in": "-re / -dre / -oir",
+            "participle_in": "-u",
+            "examples": [
+              [
+                "lire",
+                "lu"
+              ],
+              [
+                "perdre",
+                "perdu"
+              ],
+              [
+                "vouloir",
+                "voulu"
+              ]
+            ]
+          }
         ],
         "irregular": [
-          ["avoir", "eu"], ["devoir", "dû"], ["dire", "dit"], ["écrire", "écrit"], ["être", "été"], ["faire", "fait"], ["mettre", "mis"], ["mourir", "mort"],
-          ["naître", "né"], ["ouvrir", "ouvert"], ["prendre", "pris"], ["recevoir", "reçu"], ["(ob)tenir", "(ob)tenu"], ["(de)venir", "(de)venu"], ["vivre", "vécu"]
+          [
+            "avoir",
+            "eu"
+          ],
+          [
+            "devoir",
+            "dû"
+          ],
+          [
+            "dire",
+            "dit"
+          ],
+          [
+            "écrire",
+            "écrit"
+          ],
+          [
+            "être",
+            "été"
+          ],
+          [
+            "faire",
+            "fait"
+          ],
+          [
+            "mettre",
+            "mis"
+          ],
+          [
+            "mourir",
+            "mort"
+          ],
+          [
+            "naître",
+            "né"
+          ],
+          [
+            "ouvrir",
+            "ouvert"
+          ],
+          [
+            "prendre",
+            "pris"
+          ],
+          [
+            "recevoir",
+            "reçu"
+          ],
+          [
+            "(ob)tenir",
+            "(ob)tenu"
+          ],
+          [
+            "(de)venir",
+            "(de)venu"
+          ],
+          [
+            "vivre",
+            "vécu"
+          ]
         ]
       },
       "entrainement": [
-        {"number": 5, "instruction": "Conjuguez les verbes au passé composé.", "items": [
-          {"letter": "a", "text": "Tu …… (lire) le roman de Gaël Faye ?"},
-          {"letter": "b", "text": "Ma sœur …… (avoir) 18 ans hier, elle …… (faire) une grande fête avec ses amis."},
-          {"letter": "c", "text": "Elle …… (aller) en Angleterre pour finir ses études, puis elle …… (rentrer) en France."},
-          {"letter": "d", "text": "Marine et Éric …… (se marier) le week-end dernier, ils …… (organiser) un beau mariage."}
-        ]},
-        {"number": 6, "instruction": "Mettez les verbes soulignés au passé composé.",
-         "text": "Blanche Gardin est une humoriste, comédienne et scénariste française. Elle naît le 3 avril 1977 et grandit en banlieue parisienne. Elle devient célèbre suite à sa participation au Jamel Comedy Club et pour son rôle dans la série télévisée WorkinGirls. Ensuite, elle fait des spectacles en stand-up qui deviennent très populaires. Elle obtient le Molière de l’humour deux années de suite. Comme scénariste, elle coécrit le programme Parents mode d’emploi. Côté vie privée, elle rencontre son conjoint, l’humoriste américain Louis C.K., en 2018.",
-         "underlined_verbs": ["naît", "grandit", "devient", "fait", "deviennent", "obtient", "coécrit", "rencontre"]}
+        {
+          "number": 5,
+          "instruction": "Conjuguez les verbes au passé composé.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Tu …… (lire) le roman de Gaël Faye ?",
+              "answer": "Tu as lu le roman de Gaël Faye ?"
+            },
+            {
+              "letter": "b",
+              "text": "Ma sœur …… (avoir) 18 ans hier, elle …… (faire) une grande fête avec ses amis.",
+              "answer": "Ma sœur a eu 18 ans hier, elle a fait une grande fête avec ses amis."
+            },
+            {
+              "letter": "c",
+              "text": "Elle …… (aller) en Angleterre pour finir ses études, puis elle …… (rentrer) en France.",
+              "answer": "Elle est allée en Angleterre pour finir ses études, puis elle est rentrée en France."
+            },
+            {
+              "letter": "d",
+              "text": "Marine et Éric …… (se marier) le week-end dernier, ils …… (organiser) un beau mariage.",
+              "answer": "Marine et Éric se sont mariés le week-end dernier, ils ont organisé un beau mariage."
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "instruction": "Mettez les verbes soulignés au passé composé.",
+          "text": "Blanche Gardin est une humoriste, comédienne et scénariste française. Elle naît le 3 avril 1977 et grandit en banlieue parisienne. Elle devient célèbre suite à sa participation au Jamel Comedy Club et pour son rôle dans la série télévisée WorkinGirls. Ensuite, elle fait des spectacles en stand-up qui deviennent très populaires. Elle obtient le Molière de l’humour deux années de suite. Comme scénariste, elle coécrit le programme Parents mode d’emploi. Côté vie privée, elle rencontre son conjoint, l’humoriste américain Louis C.K., en 2018.",
+          "underlined_verbs": [
+            "naît",
+            "grandit",
+            "devient",
+            "fait",
+            "deviennent",
+            "obtient",
+            "coécrit",
+            "rencontre"
+          ]
+        }
       ],
       "production_ecrite_et_orale": [
-        {"number": 7, "instruction": "En groupes, choisissez une célébrité et faites une liste d’actions ou d’événements de sa vie sans indiquer son nom. Les autres élèves doivent deviner qui est cette personne."}
+        {
+          "number": 7,
+          "instruction": "En groupes, choisissez une célébrité et faites une liste d’actions ou d’événements de sa vie sans indiquer son nom. Les autres élèves doivent deviner qui est cette personne."
+        }
       ],
       "workbook_reference": "Cahier d’activités"
     },
@@ -224,31 +592,145 @@
       "title": "Parcours de vie",
       "audio": true,
       "word_lists": {
-        "Vivre": ["avoir un coup de foudre", "avoir un enfant", "déménager", "être célibataire / en couple", "faire connaissance", "grandir", "naître", "rencontrer quelqu’un, se rencontrer", "se faire des ami(e)s", "se marier (avec quelqu’un)", "se séparer (de quelqu’un)", "s’installer", "tomber amoureux, amoureuse (de quelqu’un)"],
-        "La vie personnelle": ["le/la célibataire", "le conjoint, la conjointe", "le couple", "l’enfant (m., f.)", "la femme", "le mari", "le/la meilleur(e) ami(e)", "la rencontre", "la vie de famille"],
-        "Le parcours scolaire et professionnel": ["chercher du travail", "devenir trader / écrivain(e) / humoriste…", "faire / finir ses études", "faire un séjour Erasmus / partir en Erasmus", "faire un stage", "obtenir un diplôme", "travailler dans une entreprise"],
-        "Les professions artistiques": ["l’acteur, l’actrice", "le chanteur, la chanteuse", "le compositeur, la compositrice", "l’écrivain(e)", "l’interprète", "le/la musicien(ne)", "le/la scénariste"]
+        "Vivre": [
+          "avoir un coup de foudre",
+          "avoir un enfant",
+          "déménager",
+          "être célibataire / en couple",
+          "faire connaissance",
+          "grandir",
+          "naître",
+          "rencontrer quelqu’un, se rencontrer",
+          "se faire des ami(e)s",
+          "se marier (avec quelqu’un)",
+          "se séparer (de quelqu’un)",
+          "s’installer",
+          "tomber amoureux, amoureuse (de quelqu’un)"
+        ],
+        "La vie personnelle": [
+          "le/la célibataire",
+          "le conjoint, la conjointe",
+          "le couple",
+          "l’enfant (m., f.)",
+          "la femme",
+          "le mari",
+          "le/la meilleur(e) ami(e)",
+          "la rencontre",
+          "la vie de famille"
+        ],
+        "Le parcours scolaire et professionnel": [
+          "chercher du travail",
+          "devenir trader / écrivain(e) / humoriste…",
+          "faire / finir ses études",
+          "faire un séjour Erasmus / partir en Erasmus",
+          "faire un stage",
+          "obtenir un diplôme",
+          "travailler dans une entreprise"
+        ],
+        "Les professions artistiques": [
+          "l’acteur, l’actrice",
+          "le chanteur, la chanteuse",
+          "le compositeur, la compositrice",
+          "l’écrivain(e)",
+          "l’interprète",
+          "le/la musicien(ne)",
+          "le/la scénariste"
+        ]
       },
       "exercises": [
-        {"number": 1, "instruction": "Complétez les phrases avec les mots suivants : couple – se marier – amoureux – enfant – m’installer – mari", "items": [
-          {"letter": "a", "text": "Ma sœur et son …… ont eu un …… l’année dernière."},
-          {"letter": "b", "text": "Ils sont tombés …… en 2019. Ils vont …… l’an prochain."},
-          {"letter": "c", "text": "Elle n’est pas célibataire, elle vit en …… ."},
-          {"letter": "d", "text": "Je vais …… dans un nouvel appartement."}
-        ]},
-        {"number": 2, "instruction": "Associez les deux parties de chaque phrase.",
-         "left": {"a": "Simon a l’intention de faire un séjour Erasmus", "b": "J’ai fait un stage de trois mois", "c": "Julie compte travailler pour"},
-         "right": {"1": "obtenir son diplôme en juin.", "2": "dans une entreprise internationale.", "3": "dans une université à Rome."}},
-        {"number": 3, "instruction": "Regardez les images et retrouvez la profession de chaque artiste francophone.", "items": [
-          {"letter": "a", "text": "Mohamed Mbougar Sarr est un …… sénégalais."},
-          {"letter": "b", "text": "Virginie Efira est une …… franco-belge."},
-          {"letter": "c", "text": "Aya Nakamura est une …… malienne."},
-          {"letter": "d", "text": "Manu Katché est un …… français."}
-        ]},
-        {"number": 4, "question": "Quelles autres professions artistiques connaissez-vous ?"}
+        {
+          "number": 1,
+          "instruction": "Complétez les phrases avec les mots suivants : couple – se marier – amoureux – enfant – m’installer – mari",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Ma sœur et son …… ont eu un …… l’année dernière."
+            },
+            {
+              "letter": "b",
+              "text": "Ils sont tombés …… en 2019. Ils vont …… l’an prochain."
+            },
+            {
+              "letter": "c",
+              "text": "Elle n’est pas célibataire, elle vit en …… .",
+              "answer": "couple"
+            },
+            {
+              "letter": "d",
+              "text": "Je vais …… dans un nouvel appartement.",
+              "answer": "m’installer"
+            }
+          ],
+          "choices": [
+            "couple",
+            "se marier",
+            "amoureux",
+            "enfant",
+            "m’installer",
+            "mari"
+          ]
+        },
+        {
+          "number": 2,
+          "instruction": "Associez les deux parties de chaque phrase.",
+          "left": {
+            "a": "Simon a l’intention de faire un séjour Erasmus",
+            "b": "J’ai fait un stage de trois mois",
+            "c": "Julie compte travailler pour"
+          },
+          "right": {
+            "1": "obtenir son diplôme en juin.",
+            "2": "dans une entreprise internationale.",
+            "3": "dans une université à Rome."
+          },
+          "answer": {
+            "a": "3",
+            "b": "2",
+            "c": "1"
+          }
+        },
+        {
+          "number": 3,
+          "instruction": "Regardez les images et retrouvez la profession de chaque artiste francophone.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Mohamed Mbougar Sarr est un …… sénégalais.",
+              "answer": "écrivain"
+            },
+            {
+              "letter": "b",
+              "text": "Virginie Efira est une …… franco-belge.",
+              "answer": "actrice"
+            },
+            {
+              "letter": "c",
+              "text": "Aya Nakamura est une …… malienne.",
+              "answer": "chanteuse"
+            },
+            {
+              "letter": "d",
+              "text": "Manu Katché est un …… français.",
+              "answer": "musicien"
+            }
+          ],
+          "choices": [
+            "écrivain",
+            "actrice",
+            "chanteuse",
+            "musicien"
+          ]
+        },
+        {
+          "number": 4,
+          "question": "Quelles autres professions artistiques connaissez-vous ?"
+        }
       ],
       "production_ecrite": [
-        {"number": 5, "instruction": "Écrivez une courte biographie d’une personne de votre choix : une célébrité, un(e) ami(e), un(e) membre de votre famille, etc."}
+        {
+          "number": 5,
+          "instruction": "Écrivez une courte biographie d’une personne de votre choix : une célébrité, un(e) ami(e), un(e) membre de votre famille, etc."
+        }
       ]
     },
     {
@@ -258,25 +740,49 @@
       "title": "Vacances en famille",
       "intro": "Ça y est, c’est les vacances ! Tout est prêt, vous n’avez rien oublié ? C’est l’occasion de faire des sorties et, pourquoi pas, du sport ensemble. Mais faire du sport en famille, ce n’est jamais simple : il faut trouver une activité pour tout le monde. Voici quelques idées d’activités sportives à pratiquer en famille cet été.",
       "activities": [
-        {"name": "Le canoë-kayak", "text": "C’est l’activité familiale idéale quand il fait beau. Entre loisir nautique et véritable sport, vous pouvez faire une balade de plusieurs heures sur une rivière ou un fleuve, voir des paysages superbes et profiter de l’eau fraîche."},
-        {"name": "Le stand-up paddle", "text": "C’est la star des sports d’eau en famille. Ce sport simple et accessible est très agréable pour s’amuser tous ensemble. Il faut juste tenir debout sur une planche et pagayer !"},
-        {"name": "Le vélo", "text": "Si votre famille n’aime pas trop les sports aquatiques, il y a l’option vélo ! En plus d’offrir un moment en plein air au milieu de beaux paysages, le vélo est un bon moyen de rester en bonne santé."},
-        {"name": "La via ferrata", "text": "C’est l’aventure familiale parfaite ! Entre randonnée et escalade, cette activité sportive permet de découvrir d’une autre manière la montagne et la nature. Du matériel de sécurité est présent sur tout le parcours et permet aux plus petits de monter sans problème."}
+        {
+          "name": "Le canoë-kayak",
+          "text": "C’est l’activité familiale idéale quand il fait beau. Entre loisir nautique et véritable sport, vous pouvez faire une balade de plusieurs heures sur une rivière ou un fleuve, voir des paysages superbes et profiter de l’eau fraîche."
+        },
+        {
+          "name": "Le stand-up paddle",
+          "text": "C’est la star des sports d’eau en famille. Ce sport simple et accessible est très agréable pour s’amuser tous ensemble. Il faut juste tenir debout sur une planche et pagayer !"
+        },
+        {
+          "name": "Le vélo",
+          "text": "Si votre famille n’aime pas trop les sports aquatiques, il y a l’option vélo ! En plus d’offrir un moment en plein air au milieu de beaux paysages, le vélo est un bon moyen de rester en bonne santé."
+        },
+        {
+          "name": "La via ferrata",
+          "text": "C’est l’aventure familiale parfaite ! Entre randonnée et escalade, cette activité sportive permet de découvrir d’une autre manière la montagne et la nature. Du matériel de sécurité est présent sur tout le parcours et permet aux plus petits de monter sans problème."
+        }
       ],
       "source": "CVIFS Toulouse, 8 juillet 2020",
       "comprehension_ecrite": {
         "entree_en_matiere": [
-          {"number": 1, "question": "À votre avis, quelles activités peut-on faire pendant des vacances en famille ?"}
+          {
+            "number": 1,
+            "question": "À votre avis, quelles activités peut-on faire pendant des vacances en famille ?"
+          }
         ],
         "premiere_lecture": [
-          {"number": 2, "question": "Parmi les activités proposées, quels sont les sports d’eau ? Où peut-on faire les autres activités ?"}
+          {
+            "number": 2,
+            "question": "Parmi les activités proposées, quels sont les sports d’eau ? Où peut-on faire les autres activités ?"
+          }
         ],
         "deuxieme_lecture": [
-          {"number": 3, "question": "Trouvez un avantage pour chaque activité."}
+          {
+            "number": 3,
+            "question": "Trouvez un avantage pour chaque activité."
+          }
         ]
       },
       "production_orale": [
-        {"number": 4, "instruction": "Proposez une autre activité à faire pendant les vacances."}
+        {
+          "number": 4,
+          "instruction": "Proposez une autre activité à faire pendant les vacances."
+        }
       ]
     },
     {
@@ -288,47 +794,119 @@
       "quote": "Nous nous sommes bien amusés !",
       "note_langage_familier": {
         "text": "Les francophones coupent certains mots en langage familier.",
-        "examples": [["Foot", "football"], ["Ciné", "cinéma"], ["Ado", "adolescent(e)"]]
+        "examples": [
+          [
+            "Foot",
+            "football"
+          ],
+          [
+            "Ciné",
+            "cinéma"
+          ],
+          [
+            "Ado",
+            "adolescent(e)"
+          ]
+        ]
       },
       "transcript": [
-        {"speaker": "Lucie", "text": "Salut Christophe, ça va ? Tu as passé un bon week-end ?"},
-        {"speaker": "Christophe", "text": "Salut Lucie ! Oui, ça va, je n’ai rien fait de spécial, je suis resté à la maison en famille."},
-        {"speaker": "Lucie", "text": "Et qu’est-ce que vous avez fait ?"},
-        {"speaker": "Christophe", "text": "J’ai fait du bricolage et du jardinage, les enfants ont joué aux jeux vidéo et Élodie a fait de la peinture. Elle a commencé un nouveau tableau."},
-        {"speaker": "Lucie", "text": "Ah, super ! Et samedi soir, vous êtes sortis ?"},
-        {"speaker": "Christophe", "text": "Non, on a regardé un match de foot. Et toi ?"},
-        {"speaker": "Lucie", "text": "Alors, samedi on a accompagné les enfants à leur compétition de judo. Et le soir nous sommes allés au festival Jazz à Vienne."},
-        {"speaker": "Christophe", "text": "Ah, je ne suis jamais allé à ce festival. Vous avez aimé ?"},
-        {"speaker": "Lucie", "text": "Oui, moi j’ai adoré le concert, mais mes enfants ne sont pas fans de jazz. Et dimanche, nous sommes allés à l’accrobranche. Nous nous sommes bien amusés !"},
-        {"speaker": "Christophe", "text": "Ah, moi aussi j’aime bien sortir, mais pas mes enfants, c’est pas du tout leur truc. Ils ne veulent rien faire le week-end. Ils ne voient personne et ils ne veulent plus jouer à des jeux de société, ni aller au ciné en famille. Leur passion, c’est les jeux vidéo."},
-        {"speaker": "Lucie", "text": "Ah oui, c’est normal, ce sont des ados maintenant."}
+        {
+          "speaker": "Lucie",
+          "text": "Salut Christophe, ça va ? Tu as passé un bon week-end ?"
+        },
+        {
+          "speaker": "Christophe",
+          "text": "Salut Lucie ! Oui, ça va, je n’ai rien fait de spécial, je suis resté à la maison en famille."
+        },
+        {
+          "speaker": "Lucie",
+          "text": "Et qu’est-ce que vous avez fait ?"
+        },
+        {
+          "speaker": "Christophe",
+          "text": "J’ai fait du bricolage et du jardinage, les enfants ont joué aux jeux vidéo et Élodie a fait de la peinture. Elle a commencé un nouveau tableau."
+        },
+        {
+          "speaker": "Lucie",
+          "text": "Ah, super ! Et samedi soir, vous êtes sortis ?"
+        },
+        {
+          "speaker": "Christophe",
+          "text": "Non, on a regardé un match de foot. Et toi ?"
+        },
+        {
+          "speaker": "Lucie",
+          "text": "Alors, samedi on a accompagné les enfants à leur compétition de judo. Et le soir nous sommes allés au festival Jazz à Vienne."
+        },
+        {
+          "speaker": "Christophe",
+          "text": "Ah, je ne suis jamais allé à ce festival. Vous avez aimé ?"
+        },
+        {
+          "speaker": "Lucie",
+          "text": "Oui, moi j’ai adoré le concert, mais mes enfants ne sont pas fans de jazz. Et dimanche, nous sommes allés à l’accrobranche. Nous nous sommes bien amusés !"
+        },
+        {
+          "speaker": "Christophe",
+          "text": "Ah, moi aussi j’aime bien sortir, mais pas mes enfants, c’est pas du tout leur truc. Ils ne veulent rien faire le week-end. Ils ne voient personne et ils ne veulent plus jouer à des jeux de société, ni aller au ciné en famille. Leur passion, c’est les jeux vidéo."
+        },
+        {
+          "speaker": "Lucie",
+          "text": "Ah oui, c’est normal, ce sont des ados maintenant."
+        }
       ],
       "comprehension_orale": {
         "entree_en_matiere": [
-          {"number": 1, "question": "Décrivez la photo. Connaissez-vous cette activité ?"}
+          {
+            "number": 1,
+            "question": "Décrivez la photo. Connaissez-vous cette activité ?"
+          }
         ],
         "premiere_ecoute": [
-          {"number": 2, "question": "De quoi parlent ces personnes ?"},
-          {"number": 3, "instruction": "Qu’est-ce qu’elles ont fait ce week-end ? Associez.",
-           "left": {"a": "Christophe et sa famille", "b": "Lucie et sa famille"},
-           "right": {"1": "sont restés chez eux.", "2": "sont sortis."}}
+          {
+            "number": 2,
+            "question": "De quoi parlent ces personnes ?"
+          },
+          {
+            "number": 3,
+            "instruction": "Qu’est-ce qu’elles ont fait ce week-end ? Associez.",
+            "left": {
+              "a": "Christophe et sa famille",
+              "b": "Lucie et sa famille"
+            },
+            "right": {
+              "1": "sont restés chez eux.",
+              "2": "sont sortis."
+            },
+            "answer": {
+              "a": "1",
+              "b": "2"
+            }
+          }
         ],
         "deuxieme_ecoute": [
-          {"number": 4, "question": "Notez trois activités du week-end de chaque famille."}
+          {
+            "number": 4,
+            "question": "Notez trois activités du week-end de chaque famille."
+          }
         ]
       },
       "production_orale": [
-        {"number": 5, "instruction": "À deux ! Quels sont vos loisirs préférés ? Quelles activités ne vous intéressent pas ? Discutez avec votre voisin(e).",
-         "pour": {
-           "title": "parler de ses goûts",
-           "phrases": [
-             "J’adore ce concert.",
-             "Je (ne) suis (pas) fan de jazz.",
-             "J’aime bien sortir.",
-             "Je n’aime pas trop les sports aquatiques.",
-             "C’est pas du tout mon truc.",
-             "Ma passion, c’est les jeux vidéo."
-           ]}}
+        {
+          "number": 5,
+          "instruction": "À deux ! Quels sont vos loisirs préférés ? Quelles activités ne vous intéressent pas ? Discutez avec votre voisin(e).",
+          "pour": {
+            "title": "parler de ses goûts",
+            "phrases": [
+              "J’adore ce concert.",
+              "Je (ne) suis (pas) fan de jazz.",
+              "J’aime bien sortir.",
+              "Je n’aime pas trop les sports aquatiques.",
+              "C’est pas du tout mon truc.",
+              "Ma passion, c’est les jeux vidéo."
+            ]
+          }
+        }
       ]
     },
     {
@@ -337,49 +915,190 @@
       "page": 19,
       "title": "La phrase négative",
       "echauffement": [
-        {"number": 1, "instruction": "Observez ces phrases. Quels sont les éléments de la négation ?", "items": [
-          {"letter": "a", "text": "Ils ne veulent plus jouer à des jeux de société."},
-          {"letter": "b", "text": "Ce n’est jamais simple."},
-          {"letter": "c", "text": "Ils ne veulent rien faire."},
-          {"letter": "d", "text": "Ils ne voient personne."}
-        ]},
-        {"number": 2, "instruction": "Observez ces deux phrases. Où est le deuxième élément de la négation au passé composé ?",
-         "sentences": ["Je n’ai rien fait de spécial.", "Je ne suis jamais allé à ce festival."],
-         "options": {"a": "Après le verbe au participe passé.", "b": "Entre l’auxiliaire et le verbe au participe passé."}}
+        {
+          "number": 1,
+          "instruction": "Observez ces phrases. Quels sont les éléments de la négation ?",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Ils ne veulent plus jouer à des jeux de société."
+            },
+            {
+              "letter": "b",
+              "text": "Ce n’est jamais simple."
+            },
+            {
+              "letter": "c",
+              "text": "Ils ne veulent rien faire."
+            },
+            {
+              "letter": "d",
+              "text": "Ils ne voient personne."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "instruction": "Observez ces deux phrases. Où est le deuxième élément de la négation au passé composé ?",
+          "sentences": [
+            "Je n’ai rien fait de spécial.",
+            "Je ne suis jamais allé à ce festival."
+          ],
+          "options": {
+            "a": "Après le verbe au participe passé.",
+            "b": "Entre l’auxiliaire et le verbe au participe passé."
+          }
+        }
       ],
       "fonctionnement": {
         "number": 3,
         "instruction": "Associez chaque mot souligné à son contraire.",
-        "left": {"a": "Il fait quelque chose.", "b": "Il pleut encore.", "c": "Il y a quelqu’un.", "d": "Elle va toujours au cinéma le week-end."},
-        "right": {"1": "Il ne pleut plus.", "2": "Elle ne va jamais au cinéma le week-end.", "3": "Il ne fait rien.", "4": "Il n’y a personne."},
+        "left": {
+          "a": "Il fait quelque chose.",
+          "b": "Il pleut encore.",
+          "c": "Il y a quelqu’un.",
+          "d": "Elle va toujours au cinéma le week-end."
+        },
+        "right": {
+          "1": "Il ne pleut plus.",
+          "2": "Elle ne va jamais au cinéma le week-end.",
+          "3": "Il ne fait rien.",
+          "4": "Il n’y a personne."
+        },
         "rappel": "Après la négation, les articles un, une, du, de la, de l’, des → de ou d’ + voyelle. Je fais du sport → Je ne fais jamais de sport. Il a de l’argent → Il n’a plus d’argent.",
         "negation_table": [
-          {"meaning": "une chose", "affirmative_word": "quelque chose", "negative_form": "ne… rien", "affirmative_examples": ["Elle boit quelque chose.", "Elle a bu un verre d’eau."], "negative_examples": ["Elle ne boit rien.", "Elle n’a rien bu."]},
-          {"meaning": "une personne", "affirmative_word": "quelqu’un / tout le monde", "negative_form": "ne… personne", "affirmative_examples": ["Je connais tout le monde ici.", "J’ai rencontré quelqu’un."], "negative_examples": ["Je ne connais personne ici.", "Je n’ai rencontré personne."]},
-          {"meaning": "une indication de temps", "affirmative_word": "toujours / souvent ou déjà", "negative_form": "ne… jamais", "affirmative_examples": ["Nous allons souvent au théâtre.", "Nous avons déjà vu ce film."], "negative_examples": ["Nous n’allons jamais au théâtre.", "Nous n’avons jamais vu ce film."]},
-          {"meaning": "un changement de situation", "affirmative_word": "toujours / encore", "negative_form": "ne… plus", "affirmative_examples": ["Il fait toujours de la boxe. (= Il continue).", "Il a encore gagné une compétition."], "negative_examples": ["Il ne fait plus de boxe.", "Il n’a plus gagné de compétition."]}
+          {
+            "meaning": "une chose",
+            "affirmative_word": "quelque chose",
+            "negative_form": "ne… rien",
+            "affirmative_examples": [
+              "Elle boit quelque chose.",
+              "Elle a bu un verre d’eau."
+            ],
+            "negative_examples": [
+              "Elle ne boit rien.",
+              "Elle n’a rien bu."
+            ]
+          },
+          {
+            "meaning": "une personne",
+            "affirmative_word": "quelqu’un / tout le monde",
+            "negative_form": "ne… personne",
+            "affirmative_examples": [
+              "Je connais tout le monde ici.",
+              "J’ai rencontré quelqu’un."
+            ],
+            "negative_examples": [
+              "Je ne connais personne ici.",
+              "Je n’ai rencontré personne."
+            ]
+          },
+          {
+            "meaning": "une indication de temps",
+            "affirmative_word": "toujours / souvent ou déjà",
+            "negative_form": "ne… jamais",
+            "affirmative_examples": [
+              "Nous allons souvent au théâtre.",
+              "Nous avons déjà vu ce film."
+            ],
+            "negative_examples": [
+              "Nous n’allons jamais au théâtre.",
+              "Nous n’avons jamais vu ce film."
+            ]
+          },
+          {
+            "meaning": "un changement de situation",
+            "affirmative_word": "toujours / encore",
+            "negative_form": "ne… plus",
+            "affirmative_examples": [
+              "Il fait toujours de la boxe. (= Il continue).",
+              "Il a encore gagné une compétition."
+            ],
+            "negative_examples": [
+              "Il ne fait plus de boxe.",
+              "Il n’a plus gagné de compétition."
+            ]
+          }
         ],
         "place_of_negation": {
-          "present": {"rule": "Les deux parties de la négation sont placées juste avant et après le verbe.", "examples": ["Je ne danse pas.", "Je ne danse jamais."]},
-          "passe_compose": {"rule": "Avec pas, plus, rien et jamais, les deux parties de la négation sont placées juste avant et après l’auxiliaire.", "examples": ["Il n’a pas mangé.", "Il n’a rien mangé."]},
+          "present": {
+            "rule": "Les deux parties de la négation sont placées juste avant et après le verbe.",
+            "examples": [
+              "Je ne danse pas.",
+              "Je ne danse jamais."
+            ]
+          },
+          "passe_compose": {
+            "rule": "Avec pas, plus, rien et jamais, les deux parties de la négation sont placées juste avant et après l’auxiliaire.",
+            "examples": [
+              "Il n’a pas mangé.",
+              "Il n’a rien mangé."
+            ]
+          },
           "attention": "Quand personne est sujet, il se place avant le verbe, au présent et au passé composé : Personne n’est là. / Personne n’est venu. Quand personne est complément d’objet direct (COD), on le place toujours après le verbe : Je ne connais personne. / Je n’ai rencontré personne."
+        },
+        "answer": {
+          "a": "3",
+          "b": "1",
+          "c": "4",
+          "d": "2"
         }
       },
       "entrainement": [
-        {"number": 4, "instruction": "Répondez aux questions avec la négation qui convient.", "items": [
-          {"letter": "a", "text": "– Tu veux encore faire du vélo ? – Non, je…"},
-          {"letter": "b", "text": "– Vous faites quelque chose ce week-end ? – Non, nous…"},
-          {"letter": "c", "text": "– Il y a quelqu’un dans la salle de cinéma ? – Non, il…"},
-          {"letter": "d", "text": "– Tes enfants vont parfois à la piscine ? – Non, ils…"}
-        ]},
-        {"number": 5, "instruction": "Mettez ces phrases à la forme négative.", "items": [
-          {"letter": "a", "text": "Elle a déjà fait de l’escalade."},
-          {"letter": "b", "text": "Nous avons fait quelque chose hier soir."},
-          {"letter": "c", "text": "Ils ont invité tout le monde à leur mariage."}
-        ]}
+        {
+          "number": 4,
+          "instruction": "Répondez aux questions avec la négation qui convient.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "– Tu veux encore faire du vélo ? – Non, je…",
+              "answer": "Non, je ne veux plus faire de vélo."
+            },
+            {
+              "letter": "b",
+              "text": "– Vous faites quelque chose ce week-end ? – Non, nous…",
+              "answer": "Non, nous ne faisons rien."
+            },
+            {
+              "letter": "c",
+              "text": "– Il y a quelqu’un dans la salle de cinéma ? – Non, il…",
+              "answer": "Non, il n’y a personne."
+            },
+            {
+              "letter": "d",
+              "text": "– Tes enfants vont parfois à la piscine ? – Non, ils…",
+              "answer": "Non, ils ne vont jamais à la piscine."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "instruction": "Mettez ces phrases à la forme négative.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Elle a déjà fait de l’escalade.",
+              "answer": "Elle n’a jamais fait d’escalade."
+            },
+            {
+              "letter": "b",
+              "text": "Nous avons fait quelque chose hier soir.",
+              "answer": "Nous n’avons rien fait hier soir."
+            },
+            {
+              "letter": "c",
+              "text": "Ils ont invité tout le monde à leur mariage.",
+              "answer": "Ils n’ont invité personne à leur mariage."
+            }
+          ]
+        }
       ],
       "production_ecrite": [
-        {"number": 6, "instruction": "Regardez cette image et imaginez la vie de cet homme. Écrivez 4 phrases avec ne… plus, jamais, rien, personne.", "example": "Il ne fait jamais de sport."}
+        {
+          "number": 6,
+          "instruction": "Regardez cette image et imaginez la vie de cet homme. Écrivez 4 phrases avec ne… plus, jamais, rien, personne.",
+          "example": "Il ne fait jamais de sport."
+        }
       ],
       "workbook_reference": "Cahier d’activités"
     },
@@ -391,40 +1110,98 @@
       "heading": "Nos bons plans en Île-de-France",
       "intro": "Chaque année, les Journées du Patrimoine sont le bon plan de la rentrée culturelle : la découverte des plus beaux trésors de France. Cette année, à Paris et en Île-de-France, de nombreux musées, monuments, théâtres, châteaux et autres lieux culturels ouvrent leurs portes gratuitement et proposent de belles animations, visites guidées et expositions. En famille, entre amis, en couple ou en solitaire, cet évènement culturel est incontournable. Tout le monde y trouve son bonheur !",
       "places": [
-        {"name": "Le Cirque d’hiver Bouglione", "text": "Pour la 38e édition des Journées du Patrimoine, les amateurs de spectacles se donnent rendez-vous au Cirque d’hiver Bouglione. C’est le plus ancien cirque en activité du monde. Au programme : une visite guidée inédite pour découvrir les coulisses du cirque !"},
-        {"name": "Le Panthéon", "text": "Le Panthéon participe aux Journées du Patrimoine 2021 et ouvre ses portes. En plus de la visite gratuite de ce monument destiné aux Grands Hommes, une projection en plein air vous attend sur les façades du Panthéon."},
-        {"name": "Le château de Fontainebleau", "text": "Le château de Fontainebleau participe bien aux Journées du Patrimoine. Cette année, en plus de la visite des grands appartements du Château, on peut apprendre le jeu de paume et rencontrer les artisans qui s’occupent du lieu !"}
+        {
+          "name": "Le Cirque d’hiver Bouglione",
+          "text": "Pour la 38e édition des Journées du Patrimoine, les amateurs de spectacles se donnent rendez-vous au Cirque d’hiver Bouglione. C’est le plus ancien cirque en activité du monde. Au programme : une visite guidée inédite pour découvrir les coulisses du cirque !"
+        },
+        {
+          "name": "Le Panthéon",
+          "text": "Le Panthéon participe aux Journées du Patrimoine 2021 et ouvre ses portes. En plus de la visite gratuite de ce monument destiné aux Grands Hommes, une projection en plein air vous attend sur les façades du Panthéon."
+        },
+        {
+          "name": "Le château de Fontainebleau",
+          "text": "Le château de Fontainebleau participe bien aux Journées du Patrimoine. Cette année, en plus de la visite des grands appartements du Château, on peut apprendre le jeu de paume et rencontrer les artisans qui s’occupent du lieu !"
+        }
       ],
       "glossary": [
-        {"term": "bon plan", "definition": "Bonne idée."},
-        {"term": "coulisses", "definition": "Partie cachée derrière la scène."},
-        {"term": "façades", "definition": "Murs extérieurs."}
+        {
+          "term": "bon plan",
+          "definition": "Bonne idée."
+        },
+        {
+          "term": "coulisses",
+          "definition": "Partie cachée derrière la scène."
+        },
+        {
+          "term": "façades",
+          "definition": "Murs extérieurs."
+        }
       ],
       "au_fait": "Le jeu de paume est un sport pratiqué depuis plusieurs siècles. Il faut renvoyer une balle avec la paume de la main, comme la pelote basque. Aujourd’hui, on peut aussi utiliser une raquette.",
       "sources": "Cécile D. & My B., Sortir à Paris, septembre 2021",
       "comprehension_ecrite": {
         "entree_en_matiere": [
-          {"number": 1, "question": "D’après les images, que peut-on visiter pendant les Journées du patrimoine ?"}
+          {
+            "number": 1,
+            "question": "D’après les images, que peut-on visiter pendant les Journées du patrimoine ?"
+          }
         ],
         "premiere_lecture_introduction": [
-          {"number": 2, "instruction": "Vrai ou faux ?", "items": [
-            {"letter": "a", "text": "Pendant les Journées du patrimoine les visites ne sont pas payantes."},
-            {"letter": "b", "text": "Les Journées du patrimoine s’adressent seulement aux familles."}
-          ]}
+          {
+            "number": 2,
+            "instruction": "Vrai ou faux ?",
+            "items": [
+              {
+                "letter": "a",
+                "text": "Pendant les Journées du patrimoine les visites ne sont pas payantes.",
+                "answer": true
+              },
+              {
+                "letter": "b",
+                "text": "Les Journées du patrimoine s’adressent seulement aux familles.",
+                "answer": false
+              }
+            ]
+          }
         ],
         "deuxieme_lecture_monuments": [
-          {"number": 3, "question": "Pendant les Journées du patrimoine, quelles sont les activités qu’on peut faire au cirque d’hiver Bouglione ? Au Panthéon ? Au château de Fontainebleau ?"}
+          {
+            "number": 3,
+            "question": "Pendant les Journées du patrimoine, quelles sont les activités qu’on peut faire au cirque d’hiver Bouglione ? Au Panthéon ? Au château de Fontainebleau ?"
+          }
         ],
         "vocabulaire": [
-          {"number": 4, "question": "Que signifie « un trésor » ?", "options": {"a": "Une activité amusante.", "b": "Une richesse cachée."}},
-          {"number": 5, "question": "Que signifie « inédit » ?", "options": {"a": "Nouveau.", "b": "Drôle."}}
+          {
+            "number": 4,
+            "question": "Que signifie « un trésor » ?",
+            "options": {
+              "a": "Une activité amusante.",
+              "b": "Une richesse cachée."
+            },
+            "answer": "b"
+          },
+          {
+            "number": 5,
+            "question": "Que signifie « inédit » ?",
+            "options": {
+              "a": "Nouveau.",
+              "b": "Drôle."
+            },
+            "answer": "a"
+          }
         ]
       },
       "production_orale": [
-        {"number": 6, "question": "Que pensez-vous de cet événement ? Est-ce qu’il y a des Journées du patrimoine dans votre pays ?"}
+        {
+          "number": 6,
+          "question": "Que pensez-vous de cet événement ? Est-ce qu’il y a des Journées du patrimoine dans votre pays ?"
+        }
       ],
       "production_ecrite": [
-        {"number": 7, "instruction": "Choisissez une ville et écrivez un petit texte pour présenter deux lieux à visiter. Expliquez pourquoi ils sont intéressants."}
+        {
+          "number": 7,
+          "instruction": "Choisissez une ville et écrivez un petit texte pour présenter deux lieux à visiter. Expliquez pourquoi ils sont intéressants."
+        }
       ],
       "oh_le_cliche": {
         "quote": "Les Français sont fiers de Paris.",
@@ -439,28 +1216,122 @@
       "title": "Les loisirs",
       "audio": true,
       "word_lists": {
-        "Les lieux culturels": ["le château", "le cinéma", "le cirque", "le monument", "le musée", "le théâtre"],
-        "Sortir": ["aller au cirque, à un concert, à un festival", "faire une balade = une promenade", "faire une visite (guidée)", "visiter une exposition, un monument, un musée", "voir une pièce de théâtre, un spectacle"],
-        "Les activités en plein air": ["l’accrobranche (m.)", "le canoë (kayak)", "l’escalade (f.)", "le foot(ball)", "le jardinage", "le (stand-up) paddle", "la randonnée", "les sports aquatiques / nautiques", "le vélo", "la via ferrata"],
-        "Les activités à l’intérieur": ["le bricolage", "les jeux de société", "les jeux vidéo", "le judo", "la peinture"],
-        "Pratiquer une activité": ["bricoler", "être amateur, amatrice ≠ professionnel(le)", "faire du vélo, de l’escalade, de l’accrobranche", "faire une compétition de…", "faire une randonnée, une via ferrata", "jardiner", "jouer au / faire du foot", "jouer aux jeux vidéo", "peindre / faire un tableau", "regarder une série, un match, etc."]
+        "Les lieux culturels": [
+          "le château",
+          "le cinéma",
+          "le cirque",
+          "le monument",
+          "le musée",
+          "le théâtre"
+        ],
+        "Sortir": [
+          "aller au cirque, à un concert, à un festival",
+          "faire une balade = une promenade",
+          "faire une visite (guidée)",
+          "visiter une exposition, un monument, un musée",
+          "voir une pièce de théâtre, un spectacle"
+        ],
+        "Les activités en plein air": [
+          "l’accrobranche (m.)",
+          "le canoë (kayak)",
+          "l’escalade (f.)",
+          "le foot(ball)",
+          "le jardinage",
+          "le (stand-up) paddle",
+          "la randonnée",
+          "les sports aquatiques / nautiques",
+          "le vélo",
+          "la via ferrata"
+        ],
+        "Les activités à l’intérieur": [
+          "le bricolage",
+          "les jeux de société",
+          "les jeux vidéo",
+          "le judo",
+          "la peinture"
+        ],
+        "Pratiquer une activité": [
+          "bricoler",
+          "être amateur, amatrice ≠ professionnel(le)",
+          "faire du vélo, de l’escalade, de l’accrobranche",
+          "faire une compétition de…",
+          "faire une randonnée, une via ferrata",
+          "jardiner",
+          "jouer au / faire du foot",
+          "jouer aux jeux vidéo",
+          "peindre / faire un tableau",
+          "regarder une série, un match, etc."
+        ]
       },
       "exercises": [
-        {"number": 1, "instruction": "Complétez les phrases avec les mots suivants : château – pièce – spectacle – exposition – balade – concerts", "items": [
-          {"letter": "a", "text": "Je suis allé au théâtre et j’ai vu une …… très drôle."},
-          {"letter": "b", "text": "Cet après-midi, nous avons fait une …… au parc."},
-          {"letter": "c", "text": "Tu as vu la liste des …… du festival Jazz à Vienne ?"},
-          {"letter": "d", "text": "En ce moment, il y a une …… de tableaux du XIXe siècle."},
-          {"letter": "e", "text": "Ce …… fait partie du patrimoine historique."},
-          {"letter": "f", "text": "Les enfants ont adoré le …… de cirque !"}
-        ]},
-        {"number": 2, "instruction": "Retrouvez dans les listes les noms de ces activités.", "images": {"a": "le judo / jeux de société", "b": "les jeux vidéo", "c": "l’escalade", "d": "bricoler", "e": "le jardinage", "f": "peindre"}}
+        {
+          "number": 1,
+          "instruction": "Complétez les phrases avec les mots suivants : château – pièce – spectacle – exposition – balade – concerts",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Je suis allé au théâtre et j’ai vu une …… très drôle.",
+              "answer": "pièce"
+            },
+            {
+              "letter": "b",
+              "text": "Cet après-midi, nous avons fait une …… au parc.",
+              "answer": "balade"
+            },
+            {
+              "letter": "c",
+              "text": "Tu as vu la liste des …… du festival Jazz à Vienne ?",
+              "answer": "concerts"
+            },
+            {
+              "letter": "d",
+              "text": "En ce moment, il y a une …… de tableaux du XIXe siècle.",
+              "answer": "exposition"
+            },
+            {
+              "letter": "e",
+              "text": "Ce …… fait partie du patrimoine historique.",
+              "answer": "château"
+            },
+            {
+              "letter": "f",
+              "text": "Les enfants ont adoré le …… de cirque !",
+              "answer": "spectacle"
+            }
+          ],
+          "choices": [
+            "château",
+            "pièce",
+            "spectacle",
+            "exposition",
+            "balade",
+            "concerts"
+          ]
+        },
+        {
+          "number": 2,
+          "instruction": "Retrouvez dans les listes les noms de ces activités.",
+          "images": {
+            "a": "le judo / jeux de société",
+            "b": "les jeux vidéo",
+            "c": "l’escalade",
+            "d": "bricoler",
+            "e": "le jardinage",
+            "f": "peindre"
+          }
+        }
       ],
       "production_orale": [
-        {"number": 3, "instruction": "Choisissez une activité de loisir et mimez-la pour que les autres élèves la devinent."}
+        {
+          "number": 3,
+          "instruction": "Choisissez une activité de loisir et mimez-la pour que les autres élèves la devinent."
+        }
       ],
       "production_ecrite": [
-        {"number": 4, "instruction": "Écrivez un petit texte pour présenter vos sorties et activités préférées. Vous pouvez ajouter des activités qui ne sont pas dans ces listes. Précisez où et avec qui vous aimez faire ces activités."}
+        {
+          "number": 4,
+          "instruction": "Écrivez un petit texte pour présenter vos sorties et activités préférées. Vous pouvez ajouter des activités qui ne sont pas dans ces listes. Précisez où et avec qui vous aimez faire ces activités."
+        }
       ],
       "workbook_reference": "Cahier d’activités"
     },
@@ -474,17 +1345,48 @@
       "info": "Les Jeux de la Francophonie ont lieu tous les quatre ans dans une ville francophone différente. Ils rassemblent des jeunes du monde entier autour des arts, du sport et de la langue française.",
       "comprehension_audiovisuelle": {
         "entree_en_matiere": [
-          {"number": 1, "question": "Regardez l’affiche. Quel événement présente-t-elle ?"}
+          {
+            "number": 1,
+            "question": "Regardez l’affiche. Quel événement présente-t-elle ?"
+          }
         ],
         "premier_visionnage_en_entier": [
-          {"number": 2, "instruction": "Vrai ou faux ?", "items": [
-            {"letter": "a", "text": "Les Jeux de la Francophonie sont un événement sportif et artistique."},
-            {"letter": "b", "text": "Il y a différents types de concours culturels."},
-            {"letter": "c", "text": "Les Jeux de la Francophonie s’adressent seulement aux Français(es)."}
-          ]}
+          {
+            "number": 2,
+            "instruction": "Vrai ou faux ?",
+            "items": [
+              {
+                "letter": "a",
+                "text": "Les Jeux de la Francophonie sont un événement sportif et artistique.",
+                "answer": true
+              },
+              {
+                "letter": "b",
+                "text": "Il y a différents types de concours culturels.",
+                "answer": true
+              },
+              {
+                "letter": "c",
+                "text": "Les Jeux de la Francophonie s’adressent seulement aux Français(es).",
+                "answer": false
+              }
+            ]
+          }
         ],
         "deuxieme_visionnage_a_partir_de_au_programme": [
-          {"number": 3, "question": "Quelles disciplines de cette liste font partie des concours culturels ?", "choices": ["la chanson", "la danse", "la musique classique", "la littérature", "la couture", "la photographie", "la peinture"]}
+          {
+            "number": 3,
+            "question": "Quelles disciplines de cette liste font partie des concours culturels ?",
+            "choices": [
+              "la chanson",
+              "la danse",
+              "la musique classique",
+              "la littérature",
+              "la couture",
+              "la photographie",
+              "la peinture"
+            ]
+          }
         ]
       }
     },
@@ -495,32 +1397,83 @@
       "title": "J’ai participé aux Jeux de la Francophonie",
       "intro": "La parole à Pascale Stöcklin (Suisse) : médaille d’or en athlétisme féminin (saut à la perche) en 2017, aux VIIIe Jeux de la Francophonie, à Abidjan, en Côte d’Ivoire.",
       "interview": [
-        {"question": "Présentez-vous.", "answer": "J’ai 22 ans et j’habite dans une jolie ville qui s’appelle Bâle au nord de la Suisse. Ces dernières années, le saut à la perche est devenu indispensable pour moi dans ma vie. J’ai fait ma première compétition il y a onze ans."},
-        {"question": "Que représentent les Jeux de la Francophonie, selon vous ?", "answer": "Pour moi, les jeux représentent la collectivité. Tout le monde parle la même langue, même si nous venons tous de pays différents."},
-        {"question": "Pourquoi vous avez décidé de participer aux Jeux de la Francophonie ?", "answer": "J’ai décidé de participer aux Jeux de la Francophonie pour faire des expériences nouvelles, dans un autre pays, avec une autre culture."},
-        {"question": "Avez-vous échangé avec des personnes venues d’autres États et gouvernements ?", "answer": "Oui, pendant deux semaines j’ai fait la connaissance de beaucoup d’athlètes de divers pays. Ils sont tous très ouverts."},
-        {"question": "Quels conseils donnez-vous aux prochains participants aux Jeux ?", "answer": "Entraînez-vous bien, restez ouverts et faites des expériences uniques."},
-        {"question": "Un mot à la jeunesse francophone ?", "answer": "Si on ne rêve pas, on n’avance pas."}
+        {
+          "question": "Présentez-vous.",
+          "answer": "J’ai 22 ans et j’habite dans une jolie ville qui s’appelle Bâle au nord de la Suisse. Ces dernières années, le saut à la perche est devenu indispensable pour moi dans ma vie. J’ai fait ma première compétition il y a onze ans."
+        },
+        {
+          "question": "Que représentent les Jeux de la Francophonie, selon vous ?",
+          "answer": "Pour moi, les jeux représentent la collectivité. Tout le monde parle la même langue, même si nous venons tous de pays différents."
+        },
+        {
+          "question": "Pourquoi vous avez décidé de participer aux Jeux de la Francophonie ?",
+          "answer": "J’ai décidé de participer aux Jeux de la Francophonie pour faire des expériences nouvelles, dans un autre pays, avec une autre culture."
+        },
+        {
+          "question": "Avez-vous échangé avec des personnes venues d’autres États et gouvernements ?",
+          "answer": "Oui, pendant deux semaines j’ai fait la connaissance de beaucoup d’athlètes de divers pays. Ils sont tous très ouverts."
+        },
+        {
+          "question": "Quels conseils donnez-vous aux prochains participants aux Jeux ?",
+          "answer": "Entraînez-vous bien, restez ouverts et faites des expériences uniques."
+        },
+        {
+          "question": "Un mot à la jeunesse francophone ?",
+          "answer": "Si on ne rêve pas, on n’avance pas."
+        }
       ],
       "source": "CIJF, 21 mai 2019",
       "comprehension_ecrite": {
         "entree_en_matiere": [
-          {"number": 1, "question": "Regardez la photo. Comment s’appelle ce sport ?", "options": {"a": "Le judo.", "b": "L’escalade.", "c": "Le saut à la perche."}}
+          {
+            "number": 1,
+            "question": "Regardez la photo. Comment s’appelle ce sport ?",
+            "options": {
+              "a": "Le judo.",
+              "b": "L’escalade.",
+              "c": "Le saut à la perche."
+            },
+            "answer": "c"
+          }
         ],
         "premiere_lecture_introduction": [
-          {"number": 2, "question": "Pascale Stöcklin a représenté quel pays aux Jeux de la Francophonie ?"},
-          {"number": 3, "question": "Où et quand a-t-elle participé aux Jeux de la Francophonie ? Est-ce qu’elle a gagné ?"}
+          {
+            "number": 2,
+            "question": "Pascale Stöcklin a représenté quel pays aux Jeux de la Francophonie ?"
+          },
+          {
+            "number": 3,
+            "question": "Où et quand a-t-elle participé aux Jeux de la Francophonie ? Est-ce qu’elle a gagné ?"
+          }
         ],
         "deuxieme_lecture_interview": [
-          {"number": 4, "question": "De quelle ville vient Pascale Stöcklin ?"},
-          {"number": 5, "question": "Qu’est-ce que Pascale Stöcklin pense des autres participants ?"}
+          {
+            "number": 4,
+            "question": "De quelle ville vient Pascale Stöcklin ?"
+          },
+          {
+            "number": 5,
+            "question": "Qu’est-ce que Pascale Stöcklin pense des autres participants ?"
+          }
         ],
         "vocabulaire": [
-          {"number": 6, "question": "Que signifie « entraînez-vous » ?", "options": {"a": "Préparez-vous.", "b": "Relaxez-vous."}}
+          {
+            "number": 6,
+            "question": "Que signifie « entraînez-vous » ?",
+            "options": {
+              "a": "Préparez-vous.",
+              "b": "Relaxez-vous."
+            },
+            "answer": "a"
+          }
         ]
       },
       "production_ecrite_delf": [
-        {"number": 7, "instruction": "Avez-vous déjà participé à une compétition sportive ou artistique ? Si oui, racontez votre expérience. Si non, racontez l’expérience d’une personne que vous connaissez ou d’une célébrité.", "minimum_words": 50}
+        {
+          "number": 7,
+          "instruction": "Avez-vous déjà participé à une compétition sportive ou artistique ? Si oui, racontez votre expérience. Si non, racontez l’expérience d’une personne que vous connaissez ou d’une célébrité.",
+          "minimum_words": 50
+        }
       ]
     },
     {
@@ -529,42 +1482,85 @@
       "page": 23,
       "title": "Envie de sortir ?",
       "dialogue": [
-        {"speaker": "Julie", "text": "T’as vu, les places pour les Francofolies sont en vente depuis hier. Ça te dit ?"},
-        {"speaker": "Sarah", "text": "Ah oui, avec plaisir ! Tu veux y aller quand ?"},
-        {"speaker": "Julie", "text": "Tu es libre le 9 juillet ? Il y a plein de concerts sympas."},
-        {"speaker": "Sarah", "text": "Je suis désolée, ce n’est pas possible, j’ai un rendez-vous de travail. Mais le 10 juillet la programmation est cool aussi. Ça te va ?"},
-        {"speaker": "Julie", "text": "OK, ça me va ! On se retrouve chez moi ce soir pour réserver nos places ? À 19 h, c’est bon pour toi ?"},
-        {"speaker": "Sarah", "text": "Je m’excuse, mais je ne peux pas. Je sors du travail à 19 h 30. À 20 h, c’est possible ?"},
-        {"speaker": "Julie", "text": "D’accord, ça marche. À ce soir !"}
+        {
+          "speaker": "Julie",
+          "text": "T’as vu, les places pour les Francofolies sont en vente depuis hier. Ça te dit ?"
+        },
+        {
+          "speaker": "Sarah",
+          "text": "Ah oui, avec plaisir ! Tu veux y aller quand ?"
+        },
+        {
+          "speaker": "Julie",
+          "text": "Tu es libre le 9 juillet ? Il y a plein de concerts sympas."
+        },
+        {
+          "speaker": "Sarah",
+          "text": "Je suis désolée, ce n’est pas possible, j’ai un rendez-vous de travail. Mais le 10 juillet la programmation est cool aussi. Ça te va ?"
+        },
+        {
+          "speaker": "Julie",
+          "text": "OK, ça me va ! On se retrouve chez moi ce soir pour réserver nos places ? À 19 h, c’est bon pour toi ?"
+        },
+        {
+          "speaker": "Sarah",
+          "text": "Je m’excuse, mais je ne peux pas. Je sors du travail à 19 h 30. À 20 h, c’est possible ?"
+        },
+        {
+          "speaker": "Julie",
+          "text": "D’accord, ça marche. À ce soir !"
+        }
       ],
       "photo_caption": "Les Francofolies de La Rochelle",
       "comprehension_ecrite": {
         "entree_en_matiere": [
-          {"number": 1, "question": "D’après la photo, les Francofolies de La Rochelle sont :", "options": {"a": "un festival de musique.", "b": "un monument historique.", "c": "une compétition sportive."}}
+          {
+            "number": 1,
+            "question": "D’après la photo, les Francofolies de La Rochelle sont :",
+            "options": {
+              "a": "un festival de musique.",
+              "b": "un monument historique.",
+              "c": "une compétition sportive."
+            },
+            "answer": "a"
+          }
         ],
         "premiere_lecture": [
-          {"number": 2, "question": "Qu’est-ce que Julie propose à Sarah ?"},
-          {"number": 3, "question": "Est-ce que Sarah accepte ?"}
+          {
+            "number": 2,
+            "question": "Qu’est-ce que Julie propose à Sarah ?"
+          },
+          {
+            "number": 3,
+            "question": "Est-ce que Sarah accepte ?"
+          }
         ],
         "deuxieme_lecture": [
-          {"number": 4, "question": "Où, quand et pourquoi se donnent-elles rendez-vous ?"}
+          {
+            "number": 4,
+            "question": "Où, quand et pourquoi se donnent-elles rendez-vous ?"
+          }
         ]
       },
       "production_orale_delf": [
-        {"number": 5, "instruction": "À deux ! Proposez une sortie à votre voisin(e). Discutez pour trouver une activité et vous fixer un rendez-vous.",
-         "pour": {
-           "title": "proposer, refuser, accepter une sortie ou un rendez-vous",
-           "phrases": [
-             "Ça te dit ?",
-             "Tu es libre ?",
-             "On se retrouve chez moi à 19 h ?",
-             "Ça te va ? / C’est bon pour toi ?",
-             "Avec plaisir ! / OK ! / D’accord !",
-             "Ça marche ! / Ça me va !",
-             "Je suis désolé(e).",
-             "Je m’excuse, mais je ne peux pas.",
-             "Ce n’est pas possible."
-           ]}}
+        {
+          "number": 5,
+          "instruction": "À deux ! Proposez une sortie à votre voisin(e). Discutez pour trouver une activité et vous fixer un rendez-vous.",
+          "pour": {
+            "title": "proposer, refuser, accepter une sortie ou un rendez-vous",
+            "phrases": [
+              "Ça te dit ?",
+              "Tu es libre ?",
+              "On se retrouve chez moi à 19 h ?",
+              "Ça te va ? / C’est bon pour toi ?",
+              "Avec plaisir ! / OK ! / D’accord !",
+              "Ça marche ! / Ça me va !",
+              "Je suis désolé(e).",
+              "Je m’excuse, mais je ne peux pas.",
+              "Ce n’est pas possible."
+            ]
+          }
+        }
       ]
     },
     {
@@ -573,27 +1569,70 @@
       "page": 23,
       "title": "Les indicateurs de temps",
       "echauffement": [
-        {"number": 1, "instruction": "Trouvez les indicateurs de temps dans les phrases suivantes.", "items": [
-          {"letter": "a", "text": "Les places sont en vente depuis hier."},
-          {"letter": "b", "text": "J’ai fait ma première compétition il y a onze ans."},
-          {"letter": "c", "text": "Pendant deux semaines, j’ai fait la connaissance de beaucoup d’athlètes."}
-        ]}
+        {
+          "number": 1,
+          "instruction": "Trouvez les indicateurs de temps dans les phrases suivantes.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Les places sont en vente depuis hier."
+            },
+            {
+              "letter": "b",
+              "text": "J’ai fait ma première compétition il y a onze ans."
+            },
+            {
+              "letter": "c",
+              "text": "Pendant deux semaines, j’ai fait la connaissance de beaucoup d’athlètes."
+            }
+          ]
+        }
       ],
       "fonctionnement": {
         "number": 2,
         "instruction": "Associez les deux parties de chaque phrase.",
         "table": [
-          {"on_utilise": "il y a", "pour_indiquer": "le temps passé entre un événement terminé et maintenant."},
-          {"on_utilise": "pendant", "pour_indiquer": "la durée d’une action ou situation."},
-          {"on_utilise": "depuis", "pour_indiquer": "le point de départ d’une action ou situation qui continue dans le présent."}
+          {
+            "on_utilise": "il y a",
+            "pour_indiquer": "le temps passé entre un événement terminé et maintenant."
+          },
+          {
+            "on_utilise": "pendant",
+            "pour_indiquer": "la durée d’une action ou situation."
+          },
+          {
+            "on_utilise": "depuis",
+            "pour_indiquer": "le point de départ d’une action ou situation qui continue dans le présent."
+          }
         ]
       },
       "entrainement": [
-        {"number": 3, "instruction": "Choisissez la bonne réponse.", "items": [
-          {"letter": "a", "text": "Mon frère est aux Francofolies il y a / depuis mardi."},
-          {"letter": "b", "text": "Hier, nous avons fait du canoë pendant / il y a quatre heures."},
-          {"letter": "c", "text": "J’ai déjà fait cette randonnée il y a / depuis deux ans."}
-        ]}
+        {
+          "number": 3,
+          "instruction": "Choisissez la bonne réponse.",
+          "items": [
+            {
+              "letter": "a",
+              "text": "Mon frère est aux Francofolies il y a / depuis mardi.",
+              "answer": "depuis"
+            },
+            {
+              "letter": "b",
+              "text": "Hier, nous avons fait du canoë pendant / il y a quatre heures.",
+              "answer": "pendant"
+            },
+            {
+              "letter": "c",
+              "text": "J’ai déjà fait cette randonnée il y a / depuis deux ans.",
+              "answer": "il y a"
+            }
+          ],
+          "choices": [
+            "il y a",
+            "pendant",
+            "depuis"
+          ]
+        }
       ],
       "workbook_reference": "Cahier d’activités"
     }
