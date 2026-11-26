@@ -79,7 +79,7 @@ function next(){
  const pre=`<div class="pre"><b>${cur.pre}</b> …</div>`;
  if(S.mode=='type'){c.innerHTML=head(cur)+pre+`<input type="text" id="inp" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="type the rest"><div class="sp">${[...'éèêëàâçôûùîï'].concat(['’']).map(x=>`<button type="button" data-c="${x}">${x}</button>`).join('')}</div><div class="fb" id="fb"></div><button class="btn" id="go">Check</button>`;
   const inp=$('inp');inp.focus();c.querySelectorAll('[data-c]').forEach(b=>b.onclick=()=>{inp.setRangeText(b.dataset.c,inp.selectionStart,inp.selectionEnd,'end');inp.focus()});
-  $('go').onclick=checkType;inp.onkeydown=e=>{if(e.key=='Enter')checkType()}}
+  $('go').onclick=checkType}
  else if(S.mode=='choice'){const pool=[...new Set(Object.values(cur.v.forms).flat().map(f=>f.replace(PRE,'')).filter(x=>x!=cur.ans))];
   const o=shuffle([cur.ans,...shuffle(pool).slice(0,3)]);c.innerHTML=head(cur)+pre+`<div class="opts">${o.map(x=>`<button class="opt">${x}</button>`).join('')}</div><div class="fb" id="fb"></div>`;
   c.querySelectorAll('.opt').forEach(b=>b.onclick=()=>{if(busy)return;busy=true;const ok=b.textContent==cur.ans;b.classList.add(ok?'ok':'no');if(!ok)c.querySelectorAll('.opt').forEach(x=>{if(x.textContent==cur.ans)x.classList.add('ok')});result(ok,ok?'Correct!':'The answer is: '+cur.full,0,b.textContent)})}
@@ -99,5 +99,10 @@ function finish(){$('play').classList.add('hide');const e=$('end');e.classList.r
  e.innerHTML=`<div class="big">${right} / ${N}</div><p style="text-align:center;margin:0 0 14px">${pct}% ${pct>=90?'🎉':pct>=60?'👍':'💪'}</p><div class="row2"><div class="stat">✓ ${right} correct</div><div class="stat no">✗ ${wrong} wrong</div></div><h3>Review (first try)</h3>`+log.map(l=>`<div class="miss ${l.ok?'g':''}"><b>${l.ok?'✓':'✗'}</b> ${l.l}: <b>${l.full}</b>${!l.ok&&l.y?` <span style="color:var(--mut)">(you: ${esc(l.y)})</span>`:''}</div>`).join('')+`<button class="btn" id="again2">Practice again</button><button class="btn alt" id="menu2">Menu</button>`;
  $('again2').onclick=start;$('menu2').onclick=()=>{e.classList.add('hide');$('setup').classList.remove('hide');hist()}}
 $('start').onclick=start;$('quit').onclick=()=>{document.onkeydown=null;$('play').classList.add('hide');$('setup').classList.remove('hide');hist()};
+document.addEventListener('keydown',e=>{
+ if(e.altKey||e.ctrlKey||e.metaKey)return;
+ if(e.code==='Space'&&!$('setup').classList.contains('hide')){e.preventDefault();start()}
+ if(e.key==='Enter'&&!$('play').classList.contains('hide')&&S.mode==='type'&&!busy){e.preventDefault();checkType()}
+});
 setup();hist();
 </script></body></html>
