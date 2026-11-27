@@ -1,0 +1,1079 @@
+{
+  "unit": {
+    "number": 2,
+    "title": "Je me souviens",
+    "objectives": [
+      "Raconter un souvenir",
+      "Exprimer le fait d’aimer et de ne pas aimer",
+      "Interroger sur un souvenir"
+    ],
+    "quote": "Ce sont des souvenirs inoubliables !"
+  },
+  "sections": [
+    {
+      "id": "A",
+      "type": "document",
+      "page": 28,
+      "title": "Saveurs de Corse",
+      "intro": "Lisandra Santoni se souvient…",
+      "au_fait": "L’écrivain Marcel Proust raconte que, quand il était enfant, sa tante lui donnait des madeleines trempées dans du thé. Une madeleine de Proust est quelque chose (objet, son, couleur, odeur) qui réactive un souvenir d’enfance.",
+      "pour": {
+        "title": "raconter un souvenir",
+        "phrases": [
+          "Je me souviens des confitures de ma grand-mère.",
+          "Je me rappelle les bugnes qu’elle nous préparait."
+        ]
+      },
+      "comprehension_ecrite": {
+        "entree_en_matiere": [
+          {
+            "number": 1,
+            "question": "Quel lieu lié à votre enfance est très important pour vous ? Pourquoi ?"
+          }
+        ],
+        "premiere_lecture": [
+          {
+            "number": 2,
+            "question": "De quel lieu Lisandra parle ?"
+          },
+          {
+            "number": 3,
+            "question": "De ce lieu, Lisandra a gardé :",
+            "options": {
+              "a": "de bons souvenirs.",
+              "b": "de mauvais souvenirs.",
+              "c": "de bons et de mauvais souvenirs."
+            },
+            "answer": "a"
+          }
+        ],
+        "deuxieme_lecture": [
+          {
+            "number": 4,
+            "question": "À quelle personne de sa famille sont associés ses souvenirs de nourriture ? et ses souvenirs dans le jardin de la maison familiale ?"
+          },
+          {
+            "number": 5,
+            "question": "Qu’est-ce que Lisandra aimait manger ?"
+          },
+          {
+            "number": 6,
+            "question": "Qu’est-ce qu’elle aimait sentir et entendre dans le jardin ?"
+          }
+        ],
+        "vocabulaire": [
+          {
+            "number": 7,
+            "question": "Quelque chose qui est « gravé dans notre mémoire » signifie :",
+            "options": {
+              "a": "quelque chose qui va rester dans notre mémoire toute la vie.",
+              "b": "quelque chose qu’on va vite oublier."
+            },
+            "answer": "a"
+          }
+        ]
+      },
+      "production_ecrite": [
+        {
+          "number": 8,
+          "instruction": "Écrivez un témoignage. Dites quels sont vos souvenirs liés à une odeur, à une saveur, à un lieu, à un objet…"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "type": "document",
+      "page": 29,
+      "title": "Revivre de beaux moments !",
+      "audio_track": 11,
+      "quote": "Ça me plaît bien de revoir ces photos !",
+      "transcript": [
+        { "speaker": "Mélina", "text": "Je cherche l’album photos bleu ! Tu sais où les parents le rangent Aurore ?" },
+        { "speaker": "Aurore", "text": "Oui ! Dans la bibliothèque. Pourquoi tu le cherches ?" },
+        { "speaker": "Mélina", "text": "Nino veut voir des photos de moi quand j’étais petite et moi j’aime bien replonger dans nos souvenirs d’enfance et d’adolescence ! Tu viens les regarder avec nous ?" },
+        { "speaker": "Aurore", "text": "Bonne idée, ça me plaît bien de revoir ces photos ! […]" },
+        { "speaker": "Mélina", "text": "Tiens, Nino, regarde, c’est moi quand je faisais du volley !" },
+        { "speaker": "Nino", "text": "Ah ! Tu faisais du volley ?" },
+        { "speaker": "Mélina", "text": "Oui ! J’adorais ça. Les entraînements, les matchs, mon équipe… ce sont des souvenirs inoubliables !" },
+        { "speaker": "Nino", "text": "Ah, mais toi aussi Aurore, tu jouais dans l’équipe ? C’est bien toi sur la photo ?" },
+        { "speaker": "Aurore", "text": "Oui, mais pour moi, ce ne sont pas des souvenirs très agréables… j’étais assez mauvaise…" },
+        { "speaker": "Nino", "text": "Dommage ! Et vous étiez où pour ce match ?" },
+        { "speaker": "Aurore", "text": "On était à Valence… ou à Lyon. J’ai oublié ! On se déplaçait beaucoup…" },
+        { "speaker": "Mélina", "text": "Et là, on partait à l’école, nos cartables sur le dos. Quelle période heureuse ! J’ai des bons souvenirs d’école, des souvenirs très joyeux…" },
+        { "speaker": "Nino", "text": "C’est super d’avoir des albums photos et de pouvoir se rappeler ses souvenirs de jeunesse, de famille, de vacances…" },
+        { "speaker": "Mélina", "text": "Oui, eh bien c’est parfait si tu aimes faire des albums, moi, j’ai horreur de ça !" }
+      ],
+      "comprehension_orale": {
+        "entree_en_matiere": [
+          {
+            "number": 1,
+            "question": "Vous aimez regarder de vieilles photos ?"
+          }
+        ],
+        "premiere_ecoute": [
+          {
+            "number": 2,
+            "question": "Que cherche Mélina ?"
+          }
+        ],
+        "deuxieme_ecoute": [
+          {
+            "number": 3,
+            "instruction": "Vrai ou faux ?",
+            "items": [
+              { "letter": "a", "text": "Nino veut voir des photos de Mélina enfant.", "answer": true },
+              { "letter": "b", "text": "Mélina n’aime pas regarder de vieilles photos.", "answer": false },
+              { "letter": "c", "text": "Aurore accepte de regarder de vieilles photos.", "answer": true }
+            ]
+          },
+          {
+            "number": 4,
+            "question": "Mélina et Aurore parlent de leurs souvenirs (plusieurs réponses) :",
+            "options": {
+              "a": "de vacances.",
+              "b": "d’école.",
+              "c": "de sport."
+            },
+            "answer": ["b", "c"]
+          },
+          {
+            "number": 5,
+            "question": "Quel souvenir est très positif pour Mélina et négatif pour Aurore ?"
+          },
+          {
+            "number": 6,
+            "question": "Que pense Nino des albums photos ? Pourquoi ?"
+          }
+        ]
+      },
+      "production_orale": [
+        {
+          "number": 7,
+          "instruction": "À deux ! Vous adorez photographier votre famille mais une personne de votre famille déteste être prise en photo. Vous discutez et vous trouvez un accord. Jouez la scène.",
+          "pour": {
+            "title": "exprimer le fait d’aimer…",
+            "phrases": [
+              "Ça me plaît (bien).",
+              "J’aime bien.",
+              "J’adore !"
+            ],
+            "negative_title": "… et de ne pas aimer",
+            "negative_phrases": [
+              "Ça ne me plaît pas.",
+              "Je n’aime pas beaucoup.",
+              "Je n’aime pas du tout !",
+              "J’ai horreur de ça !"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "type": "document",
+      "page": 29,
+      "title": "Souvenirs de famille",
+      "au_fait": "Guignol, créé à Lyon vers 1808, est le personnage principal d’un spectacle comique de marionnettes. Il s’adresse aux enfants mais aussi aux adultes !",
+      "source": "David Foenkinos, Les Souvenirs, 2011",
+      "comprehension_ecrite": {
+        "entree_en_matiere": [
+          {
+            "number": 1,
+            "question": "Regardez la couverture du livre. Vous avez envie de le lire ? Pourquoi ?"
+          }
+        ],
+        "premiere_lecture": [
+          {
+            "number": 2,
+            "question": "L’auteur raconte un souvenir avec :",
+            "options": {
+              "a": "son père.",
+              "b": "son grand-père.",
+              "c": "son oncle."
+            },
+            "answer": "b"
+          }
+        ],
+        "deuxieme_lecture": [
+          {
+            "number": 3,
+            "question": "Comment ils se déplaçaient pour aller voir Guignol ?"
+          },
+          {
+            "number": 4,
+            "question": "Pourquoi ils devaient courir ?"
+          },
+          {
+            "number": 5,
+            "question": "L’homme décrit était-il un homme comme les autres ?"
+          }
+        ],
+        "vocabulaire": [
+          {
+            "number": 6,
+            "question": "Le mot « systématiquement » signifie :",
+            "options": {
+              "a": "de façon automatique.",
+              "b": "de façon objective."
+            },
+            "answer": "a"
+          }
+        ]
+      },
+      "production_orale": [
+        {
+          "number": 7,
+          "instruction": "Vous écrivez un livre pour raconter les souvenirs que vous avez avec une personne de votre famille. De qui parlez-vous ? Pourquoi ?"
+        }
+      ]
+    },
+    {
+      "id": "grammar_1",
+      "type": "grammar",
+      "page": 30,
+      "title": "L’imparfait",
+      "echauffement": [
+        {
+          "number": 1,
+          "instruction": "Lisez ces deux passages. Trouvez les verbes à l’imparfait et retrouvez leur infinitif.",
+          "items": [
+            { "letter": "a", "text": "Ma grand-mère nous préparait des bugnes. Avec mon frère, on adorait les manger assis devant la cheminée." },
+            { "letter": "b", "text": "Il regardait sa montre pendant le trajet, avec cette inquiétude des gens qui sont toujours en retard. On courait pour ne pas rater le début. Il était excité, tout autant que moi." }
+          ]
+        },
+        {
+          "number": 2,
+          "question": "Dans quel passage l’imparfait permet de parler d’une habitude dans le passé ? de décrire une scène dans le passé ?"
+        }
+      ],
+      "fonctionnement": {
+        "emploi": "Il permet de décrire une scène passée ou de parler d’une habitude passée.",
+        "formation": "L’imparfait se forme sur le radical du verbe conjugué à la 1re personne du pluriel (nous) au présent + terminaisons : -ais, -ais, -ait, -ions, -iez, -aient. Une exception : le verbe être (j’étais, tu étais, il était…).",
+        "conjugation_table": {
+          "avoir": ["avais", "avais", "avait", "avions", "aviez", "avaient"],
+          "changer": ["changeais", "changeais", "changeait", "changions", "changiez", "changeaient"],
+          "se déplacer": ["me déplaçais", "te déplaçais", "se déplaçait", "nous déplacions", "vous déplaciez", "se déplaçaient"]
+        },
+        "remarque": {
+          "rule": "Pour exprimer l’habitude, la fréquence avec l’imparfait, on utilise les expressions suivantes :",
+          "examples": [
+            "À cette époque, j’habitais à Strasbourg.",
+            "On se déplaçait beaucoup/souvent.",
+            "Nous nous voyions chaque jour/tous les jours.",
+            "Toutes les semaines/Chaque semaine, il y avait un match.",
+            "On allait de temps en temps/parfois voir un spectacle.",
+            "Il faisait toujours/tout le temps beau."
+          ]
+        }
+      },
+      "entrainement": [
+        {
+          "number": 3,
+          "instruction": "Conjuguez les verbes au présent (nous), puis à l’imparfait à la personne indiquée.",
+          "items": [
+            { "letter": "a", "verb": "aimer", "present": "nous aimons", "person": "tu", "answer": "tu aimais", "example": true },
+            { "letter": "b", "verb": "aller", "present": "nous allons", "person": "il", "answer": "il allait" },
+            { "letter": "c", "verb": "rendre", "present": "nous rendons", "person": "je", "answer": "je rendais" },
+            { "letter": "d", "verb": "habiter", "present": "nous habitons", "person": "vous", "answer": "vous habitiez" },
+            { "letter": "e", "verb": "écrire", "present": "nous écrivons", "person": "elles", "answer": "elles écrivaient" },
+            { "letter": "f", "verb": "faire", "present": "nous faisons", "person": "nous", "answer": "nous faisions" }
+          ]
+        },
+        {
+          "number": 4,
+          "instruction": "Associez pour terminer les phrases.",
+          "left": {
+            "a": "À cette époque, j’",
+            "b": "Chaque semaine, nous",
+            "c": "Avant, elle",
+            "d": "Vous vous",
+            "e": "Quand ils étaient jeunes, ils"
+          },
+          "right": {
+            "1": "étudiions ensemble.",
+            "2": "déplaciez souvent ?",
+            "3": "écrivais tous les jours.",
+            "4": "prenait toujours des photos.",
+            "5": "voyageaient de temps en temps."
+          },
+          "answer": { "a": "3", "b": "1", "c": "4", "d": "2", "e": "5" }
+        },
+        {
+          "number": 5,
+          "instruction": "Transformez les verbes soulignés à l’imparfait.",
+          "text": "Gabriel veut devenir chanteur. Il prend des cours avec un professeur qu’il aime beaucoup et qui est très compétent. Il chante souvent devant un public : sa famille et ses amis, bien sûr, et il fait de petits concerts. Il chante aussi dans un groupe. Avec les membres de son groupe, ils répètent tous les week-ends et espèrent devenir célèbres !",
+          "underlined_verbs": ["veut", "prend", "aime", "est", "chante", "fait", "chante", "répètent", "espèrent"],
+          "answers": ["voulait", "prenait", "aimait", "était", "chantait", "faisait", "chantait", "répétaient", "espéraient"]
+        }
+      ],
+      "production_orale": [
+        {
+          "number": 6,
+          "instruction": "À deux ! Vous discutez avec un(e) ami(e) de vos vacances, avant et aujourd’hui.",
+          "example": "Avant, je partais avec mes parents. Aujourd’hui je pars avec des amis."
+        }
+      ],
+      "production_ecrite_delf": [
+        {
+          "number": 7,
+          "instruction": "Décrivez un souvenir heureux (âge, lieu, activités, etc.). (50 mots minimum)",
+          "example": "J’avais 5 ans, j’étais en vacances avec mes parents à la mer…",
+          "minimum_words": 50
+        }
+      ],
+      "workbook_reference": "Cahier d’activités"
+    },
+    {
+      "id": "vocab_1",
+      "type": "vocabulary",
+      "page": 31,
+      "title": "Le souvenir",
+      "audio": true,
+      "word_lists": {
+        "La mémoire": [
+          "l’album photos (m.)",
+          "oublier",
+          "raconter un souvenir",
+          "replonger dans son enfance",
+          "se rappeler",
+          "se souvenir"
+        ],
+        "Les sens": [
+          "le bruit",
+          "le chant des oiseaux",
+          "le goût",
+          "goûter",
+          "l’odeur (f.)",
+          "le parfum",
+          "regarder",
+          "la saveur",
+          "sentir bon ≠ sentir mauvais",
+          "tenir la main",
+          "voir",
+          "la vue"
+        ],
+        "Les souvenirs": [
+          "d’adolescence (f.)",
+          "d’école (f.)",
+          "d’enfance (f.)",
+          "de famille (f.)",
+          "de jeunesse (f.)",
+          "de vacances (f.pl.)"
+        ],
+        "Qualifier un souvenir": [
+          "agréable",
+          "bon",
+          "difficile",
+          "heureux",
+          "inoubliable",
+          "joyeux",
+          "mauvais",
+          "triste"
+        ]
+      },
+      "exercises": [
+        {
+          "number": 1,
+          "instruction": "Associez pour terminer les phrases.",
+          "left": {
+            "a": "Elle adore replonger dans",
+            "b": "Ils ne veulent pas oublier",
+            "c": "Elle ne veut pas se rappeler",
+            "d": "Elle se souvient toujours de"
+          },
+          "right": {
+            "1": "leurs souvenirs de jeunesse.",
+            "2": "mon anniversaire.",
+            "3": "ce mauvais souvenir.",
+            "4": "son enfance."
+          },
+          "answer": { "a": "4", "b": "1", "c": "3", "d": "2" }
+        },
+        {
+          "number": 2,
+          "instruction": "Associez chaque mot à un sens.",
+          "left": {
+            "a": "Sentir.",
+            "b": "Regarder.",
+            "c": "La saveur.",
+            "d": "Le bruit.",
+            "e": "Goûter.",
+            "f": "L’album photos.",
+            "g": "Le chant (des oiseaux).",
+            "h": "L’odeur.",
+            "i": "Se tenir la main.",
+            "j": "Le parfum."
+          },
+          "right": {
+            "1": "La vue",
+            "2": "L’odorat",
+            "3": "Le goût",
+            "4": "Le toucher",
+            "5": "L’ouïe"
+          },
+          "answer": { "a": "2", "b": "1", "c": "3", "d": "5", "e": "3", "f": "1", "g": "5", "h": "2", "i": "4", "j": "2" }
+        },
+        {
+          "number": 3,
+          "instruction": "Écoutez. Dans quel dialogue ou quelle phrase on parle :",
+          "audio_track": 13,
+          "transcript": [
+            { "letter": "a", "text": "– Mmm, ça sent bon ! Qu’est-ce que tu prépares ? – Une spécialité de mon pays." },
+            { "letter": "b", "text": "– Regarde, on voit la mer, c’est magnifique !" },
+            { "letter": "c", "text": "– Il est dans la bibliothèque ? Je voudrais montrer notre dernier voyage à Victor." },
+            { "letter": "d", "text": "– Marilyn Monroe adorait le numéro 5 de Chanel." },
+            { "letter": "e", "text": "– Écoute, on entend le chant des oiseaux !" }
+          ],
+          "items": [
+            { "letter": "a", "text": "d’un album photos ?", "answer": 3 },
+            { "letter": "b", "text": "d’une bonne odeur ?", "answer": 1 },
+            { "letter": "c", "text": "d’un parfum ?", "answer": 4 },
+            { "letter": "d", "text": "d’une belle vue ?", "answer": 2 },
+            { "letter": "e", "text": "d’un bruit agréable ?", "answer": 5 }
+          ]
+        },
+        {
+          "number": 4,
+          "instruction": "Associez une phrase à une photo.",
+          "items": [
+            { "letter": "a", "text": "C’est un mauvais souvenir d’école.", "answer": 4 },
+            { "letter": "b", "text": "C’est un souvenir de vacances inoubliable !", "answer": 5 },
+            { "letter": "c", "text": "C’est un souvenir d’enfance joyeux.", "answer": 3 },
+            { "letter": "d", "text": "C’est un souvenir de jeunesse très triste.", "answer": 1 },
+            { "letter": "e", "text": "C’est un souvenir de famille très heureux.", "answer": 2 }
+          ]
+        }
+      ],
+      "workbook_reference": "Cahier d’activités"
+    },
+    {
+      "id": "D",
+      "type": "document",
+      "page": 32,
+      "title": "Une vue de rêve",
+      "subtitle": "Un souvenir inoubliable – 3 juin 2016 – Île Maurice",
+      "glossary": [
+        {
+          "term": "marquer à jamais",
+          "definition": "Rester en mémoire toute la vie."
+        }
+      ],
+      "source": "https://www.voyageavecnous.fr",
+      "comprehension_ecrite": {
+        "entree_en_matiere": [
+          {
+            "number": 1,
+            "question": "Observez la photo. Vous aimez ce paysage ? Pourquoi ?"
+          }
+        ],
+        "premiere_lecture": [
+          {
+            "number": 2,
+            "question": "De quelle île francophone Emmanuel parle-t-il ?"
+          }
+        ],
+        "deuxieme_lecture": [
+          {
+            "number": 3,
+            "question": "Pourquoi Emmanuel aime-t-il cette île ?"
+          },
+          {
+            "number": 4,
+            "question": "De quelle montagne parle-t-il ? Pourquoi ?"
+          },
+          {
+            "number": 5,
+            "question": "Est-ce que c’est difficile d’aller en haut de cette montagne ?"
+          },
+          {
+            "number": 6,
+            "question": "Pourquoi Emmanuel conseille aux touristes d’y monter ?"
+          }
+        ]
+      },
+      "production_ecrite": [
+        {
+          "number": 7,
+          "instruction": "Vous avez découvert un lieu fantastique pendant un de vos voyages. Présentez ce lieu sur votre blog."
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "type": "document",
+      "page": 32,
+      "title": "Quelle expérience !",
+      "audio_track": 14,
+      "quote": "Cette année, c’était très différent !",
+      "transcript": [
+        { "speaker": "La journaliste", "text": "Bonjour ! Dans notre émission aujourd’hui, nous accueillons Charlotte et Achille. Charlotte est partie en famille cet été en roulotte, et Achille a vécu l’expérience des vacances dans les arbres. Alors, quels souvenirs vous gardez de votre expérience ?" },
+        { "speaker": "Charlotte", "text": "Un très bon souvenir ! D’habitude on passe nos vacances sur la côte Atlantique, en compagnie des mouettes. Cette année, c’était très différent !" },
+        { "speaker": "La journaliste", "text": "Alors racontez-nous. Comment ça se passe des vacances en roulotte ?" },
+        { "speaker": "Charlotte", "text": "Eh bien, on roule sur des routes de campagne et on profite de la nature et des paysages. On voit beaucoup de champs, de fermes et de prairies !" },
+        { "speaker": "La journaliste", "text": "Et vous y dormez, dans la roulotte ?" },
+        { "speaker": "Charlotte", "text": "Oui, c’est notre maison pendant les vacances !" },
+        { "speaker": "La journaliste", "text": "Vous, Achille, vous avez passé un séjour dans les arbres." },
+        { "speaker": "Achille", "text": "Oui, j’en reviens !" },
+        { "speaker": "La journaliste", "text": "Vous êtes content de cette expérience ?" },
+        { "speaker": "Achille", "text": "Oui et non…" },
+        { "speaker": "La journaliste", "text": "Ah ! Pourquoi ?" },
+        { "speaker": "Achille", "text": "Oui, parce que c’était un rêve d’enfant mais quand il pleut et qu’il y a des orages, c’est moins sympa ! Avec du soleil, c’est très différent !" },
+        { "speaker": "La journaliste", "text": "Vous allez recommencer l’expérience ?" },
+        { "speaker": "Achille", "text": "Non, l’année prochaine, je pense aller dans un chalet en montagne, faire de la randonnée et admirer les lacs… ou marcher dans le désert au milieu des dunes et du sable." },
+        { "speaker": "Charlotte", "text": "Nous, nous pensons faire du camping en Charente-Maritime. Le climat y est agréable, il ne fait pas trop humide et le camping est à côté des plages !" }
+      ],
+      "comprehension_orale": {
+        "entree_en_matiere": [
+          {
+            "number": 1,
+            "question": "Quel(s) type(s) de vacances vous aimez ?"
+          }
+        ],
+        "premiere_ecoute": [
+          {
+            "number": 2,
+            "question": "De quel genre d’enregistrement s’agit-il ?"
+          },
+          {
+            "number": 3,
+            "question": "Charlotte a choisi quelles vacances ? Et Achille ?"
+          }
+        ],
+        "deuxieme_ecoute": [
+          {
+            "number": 4,
+            "instruction": "Vrai ou faux ?",
+            "items": [
+              { "letter": "a", "text": "Charlotte garde un très bon souvenir de ses vacances.", "answer": true },
+              { "letter": "b", "text": "Achille est très content de son expérience.", "answer": false },
+              { "letter": "c", "text": "Achille et Charlotte veulent recommencer les mêmes vacances l’année prochaine.", "answer": false }
+            ]
+          }
+        ]
+      },
+      "production_orale_delf": [
+        {
+          "number": 5,
+          "instruction": "À deux ! Questionnez votre voisin(e) sur un de ses souvenirs de vacances puis inversez les rôles.",
+          "pour": {
+            "title": "interroger sur un souvenir",
+            "phrases": [
+              "Quels souvenirs vous gardez de votre expérience ?",
+              "Vous êtes content(e) de votre expérience ?",
+              "Vous allez recommencer l’expérience ?"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar_2",
+      "type": "grammar",
+      "page": 33,
+      "title": "Les pronoms y et en",
+      "echauffement": [
+        {
+          "number": 1,
+          "instruction": "Observez ces phrases. Que remplacent y et en ?",
+          "items": [
+            { "letter": "a", "text": "On y trouve des endroits calmes et magiques." },
+            { "letter": "b", "text": "On en revient enchanté !" },
+            { "letter": "c", "text": "J’en reviens !" },
+            { "letter": "d", "text": "Le climat y est agréable." }
+          ]
+        },
+        {
+          "number": 2,
+          "question": "Imaginez quels lieux ces pronoms remplacent."
+        }
+      ],
+      "fonctionnement": {
+        "number": 3,
+        "instruction": "Complétez avec y ou en.",
+        "items": [
+          { "letter": "a", "text": "…… indique le lieu d’où la personne/l’objet vient.", "answer": "en" },
+          { "letter": "b", "text": "…… indique le lieu où la personne/l’objet est ou va.", "answer": "y" }
+        ],
+        "emploi": {
+          "y": {
+            "rule": "Le pronom y remplace généralement un nom introduit par à, sur, sous, dans, etc.",
+            "examples": [
+              "– Le climat est agréable sur cette île ? → Oui, il y est très agréable.",
+              "– Mon sac est dans la roulotte ? → Non, il n’y est pas !",
+              "– Tu te promènes souvent au bord de l’eau ? → Oui, je m’y promène très souvent."
+            ]
+          },
+          "en": {
+            "rule": "Le pronom en remplace un nom introduit par de.",
+            "examples": [
+              "– Tu reviens de la plage ? → Oui, j’en reviens à l’instant.",
+              "– Il est parti du chalet à quelle heure ? → Il en est parti à 6 h.",
+              "– Ce tipi vient des États-Unis ? → Oui, il en vient."
+            ]
+          }
+        },
+        "remarque": {
+          "rule": "Certains adverbes peuvent aussi remplacer des noms de lieux. Ici indique un lieu plus proche du locuteur que là. Là-bas indique un lieu plus éloigné. On peut parfois utiliser y ou là-bas.",
+          "examples": [
+            "Ici, il n’y a pas de place. Là non plus. Allons là-bas.",
+            "– Tu vas toujours en vacances à l’île Maurice ? → Oui, je vais là-bas tous les étés. / J’y vais tous les étés."
+          ]
+        }
+      },
+      "entrainement": [
+        {
+          "number": 4,
+          "instruction": "Associez les phrases à un ou plusieurs lieux.",
+          "left": {
+            "a": "On s’y baigne.",
+            "b": "On en revient heureux.",
+            "c": "Les enfants y jouent.",
+            "d": "On peut y dormir.",
+            "e": "On en redescend fatigué."
+          },
+          "right": {
+            "1": "Les arbres.",
+            "2": "Un sommet.",
+            "3": "L’île Maurice.",
+            "4": "Le sable.",
+            "5": "La mer."
+          }
+        },
+        {
+          "number": 5,
+          "instruction": "Complétez avec y ou en.",
+          "items": [
+            { "letter": "a", "text": "J’adore aller sur cette île, il …… fait toujours beau.", "answer": "y" },
+            { "letter": "b", "text": "Elle rentre de Bruxelles et elle …… revient très contente !", "answer": "en" },
+            { "letter": "c", "text": "Il part en Australie. Il …… va avec sa sœur.", "answer": "y" },
+            { "letter": "d", "text": "Nous adorons le bord de mer. Nous nous …… baladons tous les soirs.", "answer": "y" },
+            { "letter": "e", "text": "Il est revenu tôt de la fête. Il …… est parti à 21 heures.", "answer": "en" },
+            { "letter": "f", "text": "Elle est allée dans les Cévennes. On peut …… faire de belles randonnées.", "answer": "y" }
+          ]
+        },
+        {
+          "number": 6,
+          "instruction": "Transformez les phrases en remplaçant les mots soulignés par y ou en.",
+          "items": [
+            { "letter": "a", "text": "Je suis restée une semaine à l’île Maurice.", "underlined": "à l’île Maurice", "answer": "J’y suis restée une semaine." },
+            { "letter": "b", "text": "Nous voulons partir de Nice.", "underlined": "de Nice", "answer": "Nous voulons en partir." },
+            { "letter": "c", "text": "Elle s’installe à Québec dans une semaine.", "underlined": "à Québec", "answer": "Elle s’y installe dans une semaine." },
+            { "letter": "d", "text": "Nous sommes arrivés en Asie la semaine dernière.", "underlined": "en Asie", "answer": "Nous y sommes arrivés la semaine dernière." },
+            { "letter": "e", "text": "Tu sors de l’eau ?", "underlined": "de l’eau", "answer": "Tu en sors ?" }
+          ]
+        },
+        {
+          "number": 7,
+          "instruction": "Répondez en utilisant le pronom y ou le pronom en.",
+          "items": [
+            { "letter": "a", "text": "Tu vas souvent à la montagne ? Oui, ……", "answer": "Oui, j’y vais souvent." },
+            { "letter": "b", "text": "Vous avez dormi sous la tente ? Non, ……", "answer": "Non, nous n’y avons pas dormi." },
+            { "letter": "c", "text": "Elles reviennent du Sénégal ? Oui, ……", "answer": "Oui, elles en reviennent." },
+            { "letter": "d", "text": "Tu es à Paris ? Non, ……", "answer": "Non, je n’y suis pas." },
+            { "letter": "e", "text": "Il est reparti d’Espagne ? Oui, ……", "answer": "Oui, il en est reparti." },
+            { "letter": "f", "text": "Tu es sortie de l’aéroport ? Non, ……", "answer": "Non, je n’en suis pas sortie." }
+          ]
+        }
+      ],
+      "production_ecrite": [
+        {
+          "number": 8,
+          "instruction": "Écrivez des devinettes que vous posez aux personnes de la classe.",
+          "example": "On y trouve des poissons… → Dans la mer !"
+        }
+      ],
+      "workbook_reference": "Cahier d’activités"
+    },
+    {
+      "id": "F",
+      "type": "culture",
+      "page": 34,
+      "title": "Parlons météo !",
+      "heading": "Quel temps fait-il ?",
+      "au_fait": "En français, on utilise l’expression « parler de la pluie et du beau temps » pour dire qu’on parle de choses qui ne sont pas très importantes.",
+      "source": "https://www.caminteresse.fr",
+      "comprehension_ecrite": {
+        "entree_en_matiere": [
+          {
+            "number": 1,
+            "question": "Dans votre pays, est-ce que les gens parlent beaucoup du temps qu’il fait ?"
+          }
+        ],
+        "lecture": [
+          {
+            "number": 2,
+            "question": "La météo est-elle un sujet de conversation courant en France ? Pourquoi ?"
+          },
+          {
+            "number": 3,
+            "question": "Qu’est-ce que le bulletin météo a changé dans l’organisation des loisirs des Français ?"
+          },
+          {
+            "number": 4,
+            "question": "Qu’est-ce qui a rendu les Français encore plus accros à la météo ?"
+          }
+        ]
+      },
+      "production_orale": [
+        {
+          "number": 5,
+          "question": "Et vous, vous regardez souvent la météo ? Pour quelles raisons ?"
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "type": "document",
+      "page": 34,
+      "title": "Envie de fraîcheur",
+      "media": "video",
+      "comprehension_audiovisuelle": {
+        "visionnage": [
+          {
+            "number": 1,
+            "question": "Les Parisiens ont quitté Paris parce qu’il y faisait environ :",
+            "options": {
+              "a": "30 °C.",
+              "b": "35 °C.",
+              "c": "40 °C."
+            }
+          },
+          {
+            "number": 2,
+            "instruction": "Vrai ou faux ?",
+            "items": [
+              { "letter": "a", "text": "Le Cotentin est à 200 kilomètres de Paris." },
+              { "letter": "b", "text": "Il y fait 15 °C de moins qu’à Paris." }
+            ]
+          },
+          {
+            "number": 3,
+            "question": "Les touristes peuvent faire quelles activités ?"
+          }
+        ],
+        "vocabulaire": [
+          {
+            "number": 4,
+            "question": "Quel est le contraire de « chaleur » ?",
+            "options": {
+              "a": "Canicule.",
+              "b": "Fraîcheur."
+            },
+            "answer": "b"
+          }
+        ]
+      },
+      "production_orale": [
+        {
+          "number": 5,
+          "question": "Pour vous, quelle est la température idéale ? Pourquoi ?"
+        }
+      ],
+      "oh_le_cliche": {
+        "quote": "Il pleut dans le Nord de la France, il fait beau dans le Sud.",
+        "text": "C’est dans le Nord-Ouest qu’il pleut le plus en France, mais le Sud-Ouest arrive en deuxième position ! Les villes où il y a le plus de soleil sont d’abord Ajaccio (Corse) puis Nice et enfin Montpellier (Sud-Est). (Source : Météo France)",
+        "question": "Et dans votre ville, il pleut souvent ? il y a souvent du soleil ?"
+      }
+    },
+    {
+      "id": "vocab_2",
+      "type": "vocabulary",
+      "page": 35,
+      "title": "Les paysages et la météo",
+      "audio": true,
+      "word_lists": {
+        "À la mer": [
+          "à marée basse ≠ à marée haute",
+          "la barrière de corail",
+          "la côte",
+          "la dune",
+          "l’île (f.)",
+          "la mouette",
+          "la plage",
+          "le port",
+          "le sable"
+        ],
+        "À la campagne": [
+          "le champ",
+          "la ferme",
+          "la prairie"
+        ],
+        "À la montagne": [
+          "le chalet",
+          "le lac",
+          "le sommet"
+        ],
+        "La météo": [
+          "la canicule",
+          "la chaleur ≠ la fraîcheur",
+          "le ciel (bleu, gris)",
+          "le climat",
+          "l’orage (m.)",
+          "la pluie",
+          "le soleil",
+          "la température (les degrés)",
+          "le temps",
+          "un temps humide ≠ un temps sec",
+          "un temps gris",
+          "le vent"
+        ]
+      },
+      "extra_expressions": [
+        "En Belgique, pour dire qu’il fait froid, on dit « il bise ».",
+        "En Suisse et au Canada, quand il neige un peu, on dit « il neigeotte ».",
+        "En France d’Outre-mer : à la Réunion, quand il pleut un peu, on dit « il farine » ; à Saint-Pierre-et-Miquelon, quand il neige beaucoup, on dit « il tombe des plumes d’oies »."
+      ],
+      "exercises": [
+        {
+          "number": 1,
+          "instruction": "Qu’est-ce que vous voyez sur ces photos ?"
+        },
+        {
+          "number": 2,
+          "instruction": "Associez les mots à leur définition.",
+          "left": {
+            "a": "Un chalet.",
+            "b": "Une ferme.",
+            "c": "Un champ.",
+            "d": "Un lac.",
+            "e": "Une prairie."
+          },
+          "right": {
+            "1": "C’est une grande étendue d’eau.",
+            "2": "C’est une maison en bois, typique de la montagne.",
+            "3": "C’est un grand espace avec de l’herbe. Les animaux y mangent.",
+            "4": "C’est le lieu de travail et la maison d’un agriculteur.",
+            "5": "C’est un grand espace avec de la terre qui sert à cultiver des légumes, des céréales, etc."
+          },
+          "answer": { "a": "2", "b": "4", "c": "5", "d": "1", "e": "3" }
+        },
+        {
+          "number": 3,
+          "instruction": "Écoutez. Où sont ces personnes ? à la mer, à la campagne, à la montagne ?",
+          "audio_track": 16,
+          "transcript": [
+            { "letter": "a", "text": "Oh regarde les mouettes, Nino !" },
+            { "letter": "b", "text": "Je ne trouve plus les clés du chalet !" },
+            { "letter": "c", "text": "On fait de très belles balades sur la côte." },
+            { "letter": "d", "text": "On va visiter cette ferme cet après-midi ?" },
+            { "letter": "e", "text": "J’adore ces paysages avec ces prairies !" },
+            { "letter": "f", "text": "Allez, encore un petit effort, on arrive bientôt au sommet !" }
+          ],
+          "items": [
+            { "letter": "a", "answer": "à la mer" },
+            { "letter": "b", "answer": "à la montagne" },
+            { "letter": "c", "answer": "à la mer" },
+            { "letter": "d", "answer": "à la campagne" },
+            { "letter": "e", "answer": "à la campagne" },
+            { "letter": "f", "answer": "à la montagne" }
+          ]
+        },
+        {
+          "number": 4,
+          "instruction": "Complétez avec les mots de la météo.",
+          "items": [
+            { "letter": "a", "text": "C’est la …… ! Il fait très chaud la journée et la nuit aussi !", "answer": "canicule" },
+            { "letter": "b", "text": "La météo annonce des ……. Rentre le chien, il va avoir peur.", "answer": "orages" },
+            { "letter": "c", "text": "Je déteste le ……, parfois il souffle à 80 kilomètres par heure.", "answer": "vent" },
+            { "letter": "d", "text": "Il fait un temps …… en Thaïlande. C’est comme ça dans les pays tropicaux.", "answer": "humide" },
+            { "letter": "e", "text": "L’été, je cherche la …… ! Entre 18 et 20 degrés, c’est parfait pour moi.", "answer": "fraîcheur" }
+          ]
+        }
+      ],
+      "production_ecrite": [
+        {
+          "number": 5,
+          "instruction": "Quels sont les paysages que vous aimez beaucoup ? Décrivez-les, dites où ils se trouvent et quel temps il y fait."
+        }
+      ],
+      "workbook_reference": "Cahier d’activités"
+    },
+    {
+      "id": "H",
+      "type": "document",
+      "page": 36,
+      "title": "Pourquoi on achète des souvenirs de vacances ?",
+      "infographic": {
+        "title": "Ce que les Français ramènent de leurs vacances",
+        "data": [
+          { "category": "Gadget : mug, porte-clés, magnet…", "percent": 53 },
+          { "category": "Vêtement typique : marinière, sombrero, paréo…", "percent": 40 },
+          { "category": "Spécialité gastronomique : foie gras, épices…", "percent": 34 }
+        ],
+        "source": "Sondage réalisé par l’institut Opinium en 2019"
+      },
+      "source": "https://www.leparisien.fr",
+      "comprehension_ecrite": {
+        "entree_en_matiere": [
+          {
+            "number": 1,
+            "question": "Est-ce que vous achetez des souvenirs en vacances ? Pourquoi ?"
+          }
+        ],
+        "premiere_lecture": [
+          {
+            "number": 2,
+            "question": "Le texte parle des objets souvenirs :",
+            "options": {
+              "a": "que les Français achètent en vacances.",
+              "b": "que les touristes étrangers achètent en France.",
+              "c": "que les Français et les étrangers achètent en France."
+            },
+            "answer": "a"
+          }
+        ],
+        "deuxieme_lecture": [
+          {
+            "number": 3,
+            "question": "Pourquoi les gens achètent des souvenirs de vacances ?"
+          },
+          {
+            "number": 4,
+            "instruction": "Vrai ou faux ?",
+            "items": [
+              { "letter": "a", "text": "Plus de 50 % des Français ramènent des souvenirs.", "answer": true },
+              { "letter": "b", "text": "Les Français n’aiment pas ramener des mugs.", "answer": false },
+              { "letter": "c", "text": "Moins de la moitié des Français achète un vêtement typique.", "answer": true }
+            ]
+          },
+          {
+            "number": 5,
+            "question": "Combien les Français dépensent pour acheter des souvenirs ?"
+          }
+        ],
+        "vocabulaire": [
+          {
+            "number": 6,
+            "question": "Sur quelle photo vous voyez :",
+            "items": [
+              { "letter": "a", "text": "une paire d’espadrilles ?", "answer": 4 },
+              { "letter": "b", "text": "une marinière ?", "answer": 5 },
+              { "letter": "c", "text": "des épices ?", "answer": 1 },
+              { "letter": "d", "text": "un plat à tajine ?", "answer": 2 },
+              { "letter": "e", "text": "du sirop d’érable ?", "answer": 3 }
+            ]
+          }
+        ]
+      },
+      "production_orale": [
+        {
+          "number": 7,
+          "question": "Qu’est-ce que vous rapportez de vos vacances ?"
+        }
+      ]
+    },
+    {
+      "id": "I",
+      "type": "document",
+      "page": 37,
+      "title": "La tendance rétro",
+      "audio_track": 17,
+      "quote": "Ça y est, déjà la fin de nos voyages !",
+      "transcript": [
+        { "speaker": "Voix off", "text": "Ça y est, déjà la fin de nos voyages. Mais pour nous rappeler de ces bons moments, nous avons opté cette année pour des posters. Que ce soit à la mer, à la montagne ou en ville, l’affiche rétro est devenue un classique des souvenirs de vacances." },
+        { "speaker": "Femme 1", "text": "Des endroits qui nous ont plu, des endroits où il s’est passé quelque chose de particulier…" },
+        { "speaker": "Femme 2", "text": "Ça change de plein d’affiches qu’on peut voir ailleurs." },
+        { "speaker": "Femme 3", "text": "Et puis elles sont belles, les couleurs sont belles, ça donne envie de voyager." },
+        { "speaker": "Voix off", "text": "Dans cette boutique toulousaine, les nouvelles affiches touristiques côtoient celles des années 30. Le vintage revient en force, ici, les ventes augmentent de 10 % chaque année." },
+        { "speaker": "Voix off", "text": "Ces illustrations se déclinent aussi en cartes postales. Chaque destination touristique veut son modèle, comme Carcassonne. Pour la cité médiévale, c’est un outil de promotion indispensable." },
+        { "speaker": "Femme 4", "text": "L’avantage pour nous d’avoir une affiche, que les gens repartent avec une affiche, c’est de se souvenir de Carcassonne, avoir envie de revenir." }
+      ],
+      "comprehension_orale": {
+        "entree_en_matiere": [
+          {
+            "number": 1,
+            "question": "Regardez les photos. À votre avis, pourquoi on dit que ces posters sont « rétro » ?"
+          }
+        ],
+        "premiere_ecoute": [
+          {
+            "number": 2,
+            "instruction": "Vrai ou faux ?",
+            "items": [
+              { "letter": "a", "text": "Les Français aiment ramener des affiches rétro comme souvenirs de vacances.", "answer": true },
+              { "letter": "b", "text": "Ces affiches représentent seulement des villes au bord de la mer.", "answer": false }
+            ]
+          }
+        ],
+        "deuxieme_ecoute": [
+          {
+            "number": 3,
+            "instruction": "Associez les phrases aux personnes.",
+            "items": [
+              { "letter": "a", "text": "Les affiches rappellent des lieux qu’on a aimés, des moments spéciaux.", "answer": "Personne n° 1" },
+              { "letter": "b", "text": "Elles sont jolies et elles donnent envie de visiter le lieu qu’elles représentent.", "answer": "Personne n° 3" },
+              { "letter": "c", "text": "Elles sont différentes.", "answer": "Personne n° 2" }
+            ]
+          },
+          {
+            "number": 4,
+            "question": "Dans la boutique toulousaine, les ventes augmentent chaque année de :",
+            "options": {
+              "a": "6 %.",
+              "b": "10 %.",
+              "c": "16 %."
+            },
+            "answer": "b"
+          },
+          {
+            "number": 5,
+            "question": "Pourquoi les affiches de Carcassonne sont positives pour la ville ?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "grammar_3",
+      "type": "grammar",
+      "page": 37,
+      "title": "La place de l’adjectif",
+      "echauffement": [
+        {
+          "number": 1,
+          "instruction": "Relevez tous les adjectifs du document H. Dites s’ils sont au féminin ou au masculin, au singulier ou au pluriel, et quel nom ils qualifient."
+        }
+      ],
+      "fonctionnement": {
+        "number": 2,
+        "instruction": "Avant ou après le nom ? Complétez à l’aide des exemples relevés dans le texte.",
+        "items": [
+          { "letter": "a", "text": "Certains adjectifs courts (bon, gros, grand, petit, vieux, etc.) se placent …… le nom.", "answer": "avant" },
+          { "letter": "b", "text": "Les adjectifs de nationalité, de couleur et de forme se placent toujours …… le nom.", "answer": "après" }
+        ],
+        "rule": "En général, l’adjectif est placé après le nom. Dans certains cas, l’adjectif est placé avant le nom pour marquer une insistance. La phrase est plus expressive :",
+        "examples": [
+          "Les boutiques incroyables.",
+          "Les incroyables boutiques."
+        ],
+        "remarques": [
+          "Quelquefois, la place de l’adjectif entraîne un changement de sens : J’utilise mon propre mug = le mug est à moi. J’utilise un mug propre = le mug n’est pas sale.",
+          "Quand un adjectif est au pluriel devant un nom, on emploie la préposition de/d’ : De jolies espadrilles. D’excellentes épices."
+        ]
+      },
+      "entrainement": [
+        {
+          "number": 3,
+          "instruction": "Placez les adjectifs dans les phrases. Attention aux accords.",
+          "example": {
+            "text": "J’ai vu des affiches. (joli/touristique)",
+            "answer": "J’ai vu de jolies affiches touristiques."
+          },
+          "items": [
+            { "letter": "a", "text": "Elle a ramené une chemise. (coloré/beau)", "answer": "Elle a ramené une belle chemise colorée.", "note": "Réponse manuscrite sur la page : « Elle a ramené une chemise colorée. » (incomplète)" },
+            { "letter": "b", "text": "Ils sont partis sur une île. (petit/espagnol)", "answer": "Ils sont partis sur une petite île." },
+            { "letter": "c", "text": "Les touristes ont goûté des épices. (marocain/excellent)", "answer": "Les touristes ont goûté d’excellentes épices." },
+            { "letter": "d", "text": "Nous avons vu des bateaux. (gros/blanc)", "answer": "Nous avons vu de gros bateaux." },
+            { "letter": "e", "text": "La famille a très bien mangé dans ce restaurant. (toulousain/bon)", "answer": "La famille a très bien mangé dans ce bon restaurant." }
+          ]
+        }
+      ],
+      "production_ecrite": [
+        {
+          "number": 4,
+          "instruction": "Vous êtes en vacances. Écrivez à vos parents pour leur donner des nouvelles et pour leur dire quels souvenirs vous avez achetés. Attention à la place des adjectifs."
+        }
+      ],
+      "workbook_reference": "Cahier d’activités"
+    }
+  ]
+}
